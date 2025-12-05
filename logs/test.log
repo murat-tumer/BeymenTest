@@ -1394,3 +1394,82 @@ Driver info: driver.version: unknown
 2025-12-05 11:20:23 [main] INFO  com.beymen.pages.CartPage - Parsed quantity: 1
 2025-12-05 11:20:23 [main] INFO  com.beymen.tests.BeymenTest - === Test Suite Finished ===
 2025-12-05 11:20:23 [main] INFO  com.beymen.base.BaseTest - Browser closed
+2025-12-05 11:50:55 [main] INFO  com.beymen.tests.BeymenTest - === Test Suite Started ===
+2025-12-05 11:50:55 [main] INFO  com.beymen.utils.ConfigReader - Config properties loaded successfully
+2025-12-05 11:50:55 [main] INFO  com.beymen.base.BaseTest - Starting browser: chrome
+2025-12-05 11:50:59 [main] INFO  com.beymen.base.BaseTest - Navigated to: https://www.beymen.com
+2025-12-05 11:50:59 [main] INFO  com.beymen.tests.BeymenTest - Step 1: Verifying homepage is loaded
+2025-12-05 11:51:13 [main] INFO  com.beymen.pages.HomePage - Clicked on element: By.cssSelector: .o-modal__closeButton
+2025-12-05 11:51:13 [main] INFO  com.beymen.pages.HomePage - Gender popup closed
+2025-12-05 11:51:15 [main] INFO  com.beymen.pages.HomePage - Homepage loaded: true
+2025-12-05 11:51:15 [main] INFO  com.beymen.tests.BeymenTest - Homepage loaded successfully
+2025-12-05 11:51:15 [main] INFO  com.beymen.tests.BeymenTest - Step 2-3: Reading 'şort' from Excel and searching
+2025-12-05 11:51:16 [main] INFO  com.beymen.utils.ExcelReader - Excel file loaded: testdata.xlsx
+2025-12-05 11:51:16 [main] INFO  com.beymen.utils.ExcelReader - Read cell [0,0]: şort
+2025-12-05 11:51:16 [main] INFO  com.beymen.tests.BeymenTest - Search term from Excel (col 0, row 0): şort
+2025-12-05 11:51:17 [main] INFO  com.beymen.pages.HomePage - Search box opened
+2025-12-05 11:51:17 [main] INFO  com.beymen.pages.HomePage - Searched for: şort
+2025-12-05 11:51:17 [main] INFO  com.beymen.tests.BeymenTest - Step 4: Clearing search box
+2025-12-05 11:51:28 [main] WARN  com.beymen.pages.HomePage - Could not click search trigger: element click intercepted: Element <input maxlength="100" placeholder="Ürün, Marka Arayın" class="o-header__search--input"> is not clickable at point (875, 81). Other element would receive the click: <input id="o-searchSuggestion__input" name="qSugesstion" type="text" placeholder="Ürün, Marka Arayın" maxlength="100" autocomplete="off" autocapitalize="off" autocorrect="off" class="o-header__search--input">
+  (Session info: chrome=143.0.7499.41)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.1', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9d6bc73a51b49ce2d1e0cbd9abe26ba0, clickElement {id=f.5AFCE794D031AA5B70EC3CD97D0A3784.d.300DB6B7C55939EA0220DA6187C3F8DB.e.1}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.41, chrome: {chromedriverVersion: 143.0.7499.40 (c23ff452476d..., userDataDir: /var/folders/_c/rcpv6cq1461...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52196}, goog:processID: 11232, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:52196/devtoo..., se:cdpVersion: 143.0.7499.41, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (9d6bc73a51b49ce2d1e0cbd9abe26ba0)] -> css selector: input.o-header__search--input]
+Session ID: 9d6bc73a51b49ce2d1e0cbd9abe26ba0
+2025-12-05 11:51:29 [main] INFO  com.beymen.pages.HomePage - Search box cleared
+2025-12-05 11:51:29 [main] INFO  com.beymen.tests.BeymenTest - Step 5-6: Reading 'gömlek' from Excel and searching
+2025-12-05 11:51:29 [main] INFO  com.beymen.utils.ExcelReader - Read cell [1,0]: gömlek
+2025-12-05 11:51:29 [main] INFO  com.beymen.tests.BeymenTest - Search term from Excel (col 1, row 0): gömlek
+2025-12-05 11:51:30 [main] WARN  com.beymen.pages.HomePage - Could not click search trigger: element click intercepted: Element <input maxlength="100" placeholder="Ürün, Marka Arayın" class="o-header__search--input"> is not clickable at point (875, 81). Other element would receive the click: <input id="o-searchSuggestion__input" name="qSugesstion" type="text" placeholder="Ürün, Marka Arayın" maxlength="100" autocomplete="off" autocapitalize="off" autocorrect="off" class="o-header__search--input">
+  (Session info: chrome=143.0.7499.41)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.1', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [9d6bc73a51b49ce2d1e0cbd9abe26ba0, clickElement {id=f.5AFCE794D031AA5B70EC3CD97D0A3784.d.300DB6B7C55939EA0220DA6187C3F8DB.e.1}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.41, chrome: {chromedriverVersion: 143.0.7499.40 (c23ff452476d..., userDataDir: /var/folders/_c/rcpv6cq1461...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52196}, goog:processID: 11232, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:52196/devtoo..., se:cdpVersion: 143.0.7499.41, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (9d6bc73a51b49ce2d1e0cbd9abe26ba0)] -> css selector: input.o-header__search--input]
+Session ID: 9d6bc73a51b49ce2d1e0cbd9abe26ba0
+2025-12-05 11:51:32 [main] INFO  com.beymen.pages.HomePage - Searched and submitted: gömlek
+2025-12-05 11:51:32 [main] INFO  com.beymen.utils.ExcelReader - Excel workbook closed
+2025-12-05 11:51:33 [main] INFO  com.beymen.tests.BeymenTest - Current URL after search: https://www.beymen.com/tr/search?q=g%C3%B6mlek
+2025-12-05 11:51:33 [main] INFO  com.beymen.tests.BeymenTest - Step 7: Selecting random product
+2025-12-05 11:51:53 [main] INFO  com.beymen.pages.SearchResultsPage - Found 48 product images with selector: [class*='productCard'] img
+2025-12-05 11:51:53 [main] INFO  com.beymen.tests.BeymenTest - Product count: 48
+2025-12-05 11:52:15 [main] INFO  com.beymen.pages.SearchResultsPage - Found 48 product images with selector: [class*='productCard'] img
+2025-12-05 11:52:15 [main] INFO  com.beymen.pages.SearchResultsPage - Found 48 product images
+2025-12-05 11:52:15 [main] INFO  com.beymen.pages.SearchResultsPage - Selecting random product at index: 2
+2025-12-05 11:52:16 [main] INFO  com.beymen.pages.SearchResultsPage - Clicked on product image
+2025-12-05 11:52:17 [main] INFO  com.beymen.pages.SearchResultsPage - Navigated to product page: https://www.beymen.com/tr/p_polo-ralph-lauren-mavi-gomlek_1646231?adId=UFJPRFVDVHwwfDB8MHwwfERCenxJc1l8MnwwfDB8MjF8Q2owUXx8fDEwLjAwfGVmOTFmYWNlLTM0YmQtNDVmZC1hNmM2LWNlYWFkNmJmMWQ1OHxlZjkxZmFjZS0zNGJkLTQ1ZmQtYTZjNi1jZWFhZDZiZjFkNTh8fDB8MjAyNS0xMi0wNVQwODo1MTozMVp8W118Z8O2bWxla3x8pn2QwtxP2Zo&advertiserIId=3949
+2025-12-05 11:52:17 [main] INFO  com.beymen.tests.BeymenTest - Step 8: Writing product info to file
+2025-12-05 11:52:18 [main] INFO  com.beymen.pages.ProductPage - Found element with selector: h1[class*='title']
+2025-12-05 11:52:18 [main] INFO  com.beymen.pages.ProductPage - Product name: Polo Ralph Lauren
+Mavi Gömlek
+2025-12-05 11:52:38 [main] INFO  com.beymen.pages.ProductPage - Product price found with XPath: 9.750 TL
+2025-12-05 11:52:38 [main] INFO  com.beymen.pages.ProductPage - Returning cached product price: 9.750 TL
+2025-12-05 11:52:38 [main] INFO  com.beymen.utils.FileWriterUtil - Product info written to file: Polo Ralph Lauren
+Mavi Gömlek - 9.750 TL
+2025-12-05 11:52:38 [main] INFO  com.beymen.tests.BeymenTest - Product info written - Name: Polo Ralph Lauren
+Mavi Gömlek, Price: 9.750 TL
+2025-12-05 11:52:38 [main] INFO  com.beymen.tests.BeymenTest - Step 9: Adding product to cart
+2025-12-05 11:52:39 [main] INFO  com.beymen.pages.ProductPage - Size selected with selector: .m-variation__item:not(.-disabled):not(.m-variation__item--disabled)
+2025-12-05 11:52:40 [main] INFO  com.beymen.pages.ProductPage - Found add to cart button with selector: #addBasket
+2025-12-05 11:52:40 [main] INFO  com.beymen.pages.ProductPage - Product added to cart
+2025-12-05 11:52:42 [main] INFO  com.beymen.tests.BeymenTest - Step 10: Navigating to cart and comparing prices
+2025-12-05 11:52:43 [main] INFO  com.beymen.pages.ProductPage - Found Sepetim link with XPath: //span[contains(text(), 'Sepetim')]/ancestor::a
+2025-12-05 11:52:45 [main] INFO  com.beymen.pages.ProductPage - Clicked on Sepetim link
+2025-12-05 11:52:48 [main] INFO  com.beymen.pages.ProductPage - Cart page URL: https://www.beymen.com/tr/cart
+2025-12-05 11:52:51 [main] INFO  com.beymen.pages.CartPage - Checking cart page URL: https://www.beymen.com/tr/cart
+2025-12-05 11:52:51 [main] INFO  com.beymen.pages.CartPage - Cart page loaded: true
+2025-12-05 11:53:04 [main] INFO  com.beymen.pages.CartPage - First item price found with selector '.m-basket__item:first-child [class*='price']': 9.750,00 TL
+2025-12-05 11:53:04 [main] INFO  com.beymen.pages.CartPage - Price comparison - Product page: 9750.0, Cart: 9750.0, Match: true
+2025-12-05 11:53:04 [main] INFO  com.beymen.tests.BeymenTest - Price comparison - Product page: 9750.0 TL, Cart: 9750.0 TL
+2025-12-05 11:53:04 [main] INFO  com.beymen.tests.BeymenTest - Prices match: true
+2025-12-05 11:53:04 [main] INFO  com.beymen.tests.BeymenTest - Step 11: Increasing quantity to 2
+2025-12-05 11:53:16 [main] INFO  com.beymen.pages.CartPage - Quantity changed to: 2
+2025-12-05 11:53:30 [main] INFO  com.beymen.pages.CartPage - Current quantity text: 2 adet
+2025-12-05 11:53:30 [main] INFO  com.beymen.pages.CartPage - Parsed quantity: 2
+2025-12-05 11:53:30 [main] INFO  com.beymen.tests.BeymenTest - Quantity verified: 2
+2025-12-05 11:53:30 [main] INFO  com.beymen.tests.BeymenTest - Step 12: Removing product and verifying cart is empty

@@ -1,0 +1,5 @@
+#surefire_0
+#Fri Dec 05 11:50:54 GMT+03:00 2025
+basedir=/Users/foneria/Downloads/test
+localRepository=/Users/foneria/.m2/repository
+test=com.beymen.tests.BeymenTest
