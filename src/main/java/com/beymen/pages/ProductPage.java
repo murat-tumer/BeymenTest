@@ -62,9 +62,9 @@ public class ProductPage extends BasePage {
         for (String selector : selectors) {
             try {
                 List<WebElement> elements = driver.findElements(By.cssSelector(selector));
-                if (!elements.isEmpty() && elements.get(0).isDisplayed()) {
+                if (!elements.isEmpty() && elements.getFirst().isDisplayed()) {
                     logger.info("Found element with selector: " + selector);
-                    return elements.get(0);
+                    return elements.getFirst();
                 }
             } catch (Exception e) {
 
@@ -207,7 +207,7 @@ public class ProductPage extends BasePage {
                         By.xpath(
                                 "//button[contains(text(), 'SEPET') or contains(text(), 'Sepet') or contains(text(), 'sepet') or contains(@class, 'add')]"));
                 if (!xpathButtons.isEmpty()) {
-                    addButton = xpathButtons.get(0);
+                    addButton = xpathButtons.getFirst();
                     logger.info("Found add to cart button with XPath");
                 }
             }

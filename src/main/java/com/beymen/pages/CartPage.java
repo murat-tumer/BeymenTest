@@ -103,7 +103,7 @@ public class CartPage extends BasePage {
             for (String selector : allPriceSelectors) {
                 List<WebElement> priceElements = driver.findElements(By.cssSelector(selector));
                 if (!priceElements.isEmpty()) {
-                    String text = priceElements.get(0).getText().trim();
+                    String text = priceElements.getFirst().getText().trim();
                     if (!text.isEmpty() && (text.contains("TL") || text.matches(".*\\d+[.,]?\\d*.*"))) {
                         logger.info("Cart price found with selector '" + selector + "': " + text);
                         return text;
@@ -119,7 +119,7 @@ public class CartPage extends BasePage {
             for (String xpath : xpathSelectors) {
                 List<WebElement> elements = driver.findElements(By.xpath(xpath));
                 if (!elements.isEmpty()) {
-                    String text = elements.get(0).getText().trim();
+                    String text = elements.getFirst().getText().trim();
                     if (!text.isEmpty() && text.matches(".*\\d+.*")) {
                         logger.info("Cart price found with XPath: " + text);
                         return text;
@@ -146,7 +146,7 @@ public class CartPage extends BasePage {
             for (String selector : quantitySelectors) {
                 List<WebElement> selects = driver.findElements(By.cssSelector(selector));
                 if (!selects.isEmpty()) {
-                    Select select = new Select(selects.get(0));
+                    Select select = new Select(selects.getFirst());
                     try {
                         select.selectByValue(String.valueOf(targetQuantity));
                     } catch (Exception e) {
@@ -170,7 +170,7 @@ public class CartPage extends BasePage {
             for (String selector : quantitySelectors) {
                 List<WebElement> selects = driver.findElements(By.cssSelector(selector));
                 if (!selects.isEmpty()) {
-                    Select select = new Select(selects.get(0));
+                    Select select = new Select(selects.getFirst());
                     String value = select.getFirstSelectedOption().getText().trim();
                     logger.info("Current quantity text: " + value);
 

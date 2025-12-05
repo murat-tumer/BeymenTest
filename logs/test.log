@@ -1134,3 +1134,90 @@ Siyah Kapitoneli Dış Gömlek, Price: 7.170 TL
 2025-12-03 16:47:45 [main] INFO  com.beymen.tests.BeymenTest - Cart is empty - Test completed successfully
 2025-12-03 16:47:45 [main] INFO  com.beymen.tests.BeymenTest - === Test Suite Finished ===
 2025-12-03 16:47:45 [main] INFO  com.beymen.base.BaseTest - Browser closed
+2025-12-05 11:07:29 [main] INFO  com.beymen.tests.BeymenTest - === Test Suite Started ===
+2025-12-05 11:07:29 [main] INFO  com.beymen.utils.ConfigReader - Config properties loaded successfully
+2025-12-05 11:07:29 [main] INFO  com.beymen.base.BaseTest - Starting browser: chrome
+2025-12-05 11:07:35 [main] INFO  com.beymen.base.BaseTest - Navigated to: https://www.beymen.com
+2025-12-05 11:07:35 [main] INFO  com.beymen.tests.BeymenTest - Step 1: Verifying homepage is loaded
+2025-12-05 11:07:37 [main] INFO  com.beymen.pages.HomePage - Clicked on element: By.id: onetrust-accept-btn-handler
+2025-12-05 11:07:37 [main] INFO  com.beymen.pages.HomePage - Cookies accepted
+2025-12-05 11:07:39 [main] INFO  com.beymen.pages.HomePage - Clicked on element: By.cssSelector: .o-modal__closeButton
+2025-12-05 11:07:39 [main] INFO  com.beymen.pages.HomePage - Gender popup closed
+2025-12-05 11:07:42 [main] INFO  com.beymen.pages.HomePage - Homepage loaded: true
+2025-12-05 11:07:42 [main] INFO  com.beymen.tests.BeymenTest - Homepage loaded successfully
+2025-12-05 11:07:42 [main] INFO  com.beymen.tests.BeymenTest - Step 2-3: Reading 'şort' from Excel and searching
+2025-12-05 11:07:42 [main] INFO  com.beymen.utils.ExcelReader - Excel file loaded: testdata.xlsx
+2025-12-05 11:07:42 [main] INFO  com.beymen.utils.ExcelReader - Read cell [0,0]: şort
+2025-12-05 11:07:42 [main] INFO  com.beymen.tests.BeymenTest - Search term from Excel (col 0, row 0): şort
+2025-12-05 11:07:43 [main] INFO  com.beymen.pages.HomePage - Search box opened
+2025-12-05 11:07:43 [main] INFO  com.beymen.pages.HomePage - Searched for: şort
+2025-12-05 11:07:44 [main] INFO  com.beymen.tests.BeymenTest - Step 4: Clearing search box
+2025-12-05 11:07:55 [main] WARN  com.beymen.pages.HomePage - Could not click search trigger: element click intercepted: Element <input maxlength="100" placeholder="Ürün, Marka Arayın" class="o-header__search--input"> is not clickable at point (875, 81). Other element would receive the click: <input id="o-searchSuggestion__input" name="qSugesstion" type="text" placeholder="Ürün, Marka Arayın" maxlength="100" autocomplete="off" autocapitalize="off" autocorrect="off" class="o-header__search--input">
+  (Session info: chrome=143.0.7499.41)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.1', java.version: '11.0.28'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [28d2a8ec85cfcf9febdd1d0f49ec5f31, clickElement {id=f.01F5B875BE6B0CC346AAEE5A037BD6E8.d.2CE97CA96EA2E0829F2BB443ADD577A8.e.1}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.41, chrome: {chromedriverVersion: 143.0.7499.40 (c23ff452476d..., userDataDir: /var/folders/_c/rcpv6cq1461...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50671}, goog:processID: 4543, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:50671/devtoo..., se:cdpVersion: 143.0.7499.41, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (28d2a8ec85cfcf9febdd1d0f49ec5f31)] -> css selector: input.o-header__search--input]
+Session ID: 28d2a8ec85cfcf9febdd1d0f49ec5f31
+2025-12-05 11:07:55 [main] INFO  com.beymen.pages.HomePage - Search box cleared
+2025-12-05 11:07:55 [main] INFO  com.beymen.tests.BeymenTest - Step 5-6: Reading 'gömlek' from Excel and searching
+2025-12-05 11:07:55 [main] INFO  com.beymen.utils.ExcelReader - Read cell [1,0]: gömlek
+2025-12-05 11:07:55 [main] INFO  com.beymen.tests.BeymenTest - Search term from Excel (col 1, row 0): gömlek
+2025-12-05 11:07:56 [main] WARN  com.beymen.pages.HomePage - Could not click search trigger: element click intercepted: Element <input maxlength="100" placeholder="Ürün, Marka Arayın" class="o-header__search--input"> is not clickable at point (875, 81). Other element would receive the click: <input id="o-searchSuggestion__input" name="qSugesstion" type="text" placeholder="Ürün, Marka Arayın" maxlength="100" autocomplete="off" autocapitalize="off" autocorrect="off" class="o-header__search--input">
+  (Session info: chrome=143.0.7499.41)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '26.1', java.version: '11.0.28'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [28d2a8ec85cfcf9febdd1d0f49ec5f31, clickElement {id=f.01F5B875BE6B0CC346AAEE5A037BD6E8.d.2CE97CA96EA2E0829F2BB443ADD577A8.e.1}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 143.0.7499.41, chrome: {chromedriverVersion: 143.0.7499.40 (c23ff452476d..., userDataDir: /var/folders/_c/rcpv6cq1461...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50671}, goog:processID: 4543, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:50671/devtoo..., se:cdpVersion: 143.0.7499.41, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (28d2a8ec85cfcf9febdd1d0f49ec5f31)] -> css selector: input.o-header__search--input]
+Session ID: 28d2a8ec85cfcf9febdd1d0f49ec5f31
+2025-12-05 11:07:58 [main] INFO  com.beymen.pages.HomePage - Searched and submitted: gömlek
+2025-12-05 11:07:59 [main] INFO  com.beymen.utils.ExcelReader - Excel workbook closed
+2025-12-05 11:08:00 [main] INFO  com.beymen.tests.BeymenTest - Current URL after search: https://www.beymen.com/tr/search?q=g%C3%B6mlek
+2025-12-05 11:08:00 [main] INFO  com.beymen.tests.BeymenTest - Step 7: Selecting random product
+2025-12-05 11:08:20 [main] INFO  com.beymen.pages.SearchResultsPage - Found 48 product images with selector: [class*='productCard'] img
+2025-12-05 11:08:20 [main] INFO  com.beymen.tests.BeymenTest - Product count: 48
+2025-12-05 11:08:42 [main] INFO  com.beymen.pages.SearchResultsPage - Found 48 product images with selector: [class*='productCard'] img
+2025-12-05 11:08:42 [main] INFO  com.beymen.pages.SearchResultsPage - Found 48 product images
+2025-12-05 11:08:42 [main] INFO  com.beymen.pages.SearchResultsPage - Selecting random product at index: 6
+2025-12-05 11:08:43 [main] INFO  com.beymen.pages.SearchResultsPage - Clicked on product image
+2025-12-05 11:08:44 [main] INFO  com.beymen.pages.SearchResultsPage - Navigated to product page: https://www.beymen.com/tr/p_beymen-club-siyah-kapitoneli-dis-gomlek_1834472
+2025-12-05 11:08:44 [main] INFO  com.beymen.tests.BeymenTest - Step 8: Writing product info to file
+2025-12-05 11:08:45 [main] INFO  com.beymen.pages.ProductPage - Found element with selector: h1[class*='title']
+2025-12-05 11:08:45 [main] INFO  com.beymen.pages.ProductPage - Product name: Beymen Club
+Siyah Kapitoneli Dış Gömlek
+2025-12-05 11:08:55 [main] INFO  com.beymen.pages.ProductPage - Product price found with XPath: 7.170 TL
+2025-12-05 11:08:55 [main] INFO  com.beymen.pages.ProductPage - Returning cached product price: 7.170 TL
+2025-12-05 11:08:55 [main] INFO  com.beymen.utils.FileWriterUtil - Product info written to file: Beymen Club
+Siyah Kapitoneli Dış Gömlek - 7.170 TL
+2025-12-05 11:08:55 [main] INFO  com.beymen.tests.BeymenTest - Product info written - Name: Beymen Club
+Siyah Kapitoneli Dış Gömlek, Price: 7.170 TL
+2025-12-05 11:08:55 [main] INFO  com.beymen.tests.BeymenTest - Step 9: Adding product to cart
+2025-12-05 11:08:56 [main] INFO  com.beymen.pages.ProductPage - Size selected with selector: .m-variation__item:not(.-disabled):not(.m-variation__item--disabled)
+2025-12-05 11:08:57 [main] INFO  com.beymen.pages.ProductPage - Found add to cart button with selector: #addBasket
+2025-12-05 11:08:57 [main] INFO  com.beymen.pages.ProductPage - Product added to cart
+2025-12-05 11:08:59 [main] INFO  com.beymen.tests.BeymenTest - Step 10: Navigating to cart and comparing prices
+2025-12-05 11:09:00 [main] INFO  com.beymen.pages.ProductPage - Found Sepetim link with XPath: //span[contains(text(), 'Sepetim')]/ancestor::a
+2025-12-05 11:09:01 [main] INFO  com.beymen.pages.ProductPage - Clicked on Sepetim link
+2025-12-05 11:09:04 [main] INFO  com.beymen.pages.ProductPage - Cart page URL: https://www.beymen.com/tr/cart
+2025-12-05 11:09:07 [main] INFO  com.beymen.pages.CartPage - Checking cart page URL: https://www.beymen.com/tr/cart
+2025-12-05 11:09:07 [main] INFO  com.beymen.pages.CartPage - Cart page loaded: true
+2025-12-05 11:09:20 [main] INFO  com.beymen.pages.CartPage - First item price found with selector '.m-basket__item:first-child [class*='price']': 11.950,00 TL
+2025-12-05 11:09:20 [main] INFO  com.beymen.pages.CartPage - Price comparison - Product page: 7170.0, Cart: 11950.0, Match: false
+2025-12-05 11:09:20 [main] INFO  com.beymen.tests.BeymenTest - Price comparison - Product page: 7170.0 TL, Cart: 11950.0 TL
+2025-12-05 11:09:20 [main] INFO  com.beymen.tests.BeymenTest - Prices match: false
+2025-12-05 11:09:20 [main] WARN  com.beymen.tests.BeymenTest - Price mismatch detected - this may be due to existing cart items or promotions
+2025-12-05 11:09:20 [main] INFO  com.beymen.tests.BeymenTest - Step 11: Increasing quantity to 2
+2025-12-05 11:09:33 [main] INFO  com.beymen.pages.CartPage - Quantity changed to: 2
+2025-12-05 11:09:47 [main] INFO  com.beymen.pages.CartPage - Current quantity text: 2 adet
+2025-12-05 11:09:47 [main] INFO  com.beymen.pages.CartPage - Parsed quantity: 2
+2025-12-05 11:09:47 [main] INFO  com.beymen.tests.BeymenTest - Quantity verified: 2
+2025-12-05 11:09:47 [main] INFO  com.beymen.tests.BeymenTest - Step 12: Removing product and verifying cart is empty
+2025-12-05 11:09:49 [main] INFO  com.beymen.pages.CartPage - Product removed from cart with selector: .m-basket__remove
+2025-12-05 11:11:16 [main] INFO  com.beymen.pages.CartPage - Cart appears to be empty
+2025-12-05 11:11:16 [main] INFO  com.beymen.tests.BeymenTest - Cart is empty - Test completed successfully
+2025-12-05 11:11:16 [main] INFO  com.beymen.tests.BeymenTest - === Test Suite Finished ===
+2025-12-05 11:11:16 [main] INFO  com.beymen.base.BaseTest - Browser closed
