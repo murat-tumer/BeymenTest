@@ -1474,3 +1474,7 @@ Mavi Gömlek, Price: 9.750 TL
 2025-12-05 11:53:30 [main] INFO  com.beymen.tests.BeymenTest - Quantity verified: 2
 2025-12-05 11:53:30 [main] INFO  com.beymen.tests.BeymenTest - Step 12: Removing product and verifying cart is empty
 2025-12-05 11:53:32 [main] INFO  com.beymen.pages.CartPage - Product removed from cart with selector: .m-basket__remove
+2025-12-05 11:53:54 [main] INFO  com.beymen.pages.CartPage - Cart appears to be empty
+2025-12-05 11:53:54 [main] INFO  com.beymen.tests.BeymenTest - Cart is empty - Test completed successfully
+2025-12-05 11:53:54 [main] INFO  com.beymen.tests.BeymenTest - === Test Suite Finished ===
+2025-12-05 11:53:54 [main] INFO  com.beymen.base.BaseTest - Browser closed
