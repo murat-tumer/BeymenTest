@@ -1,0 +1,1136 @@
+2025-12-03 13:47:45 [main] INFO  com.beymen.tests.BeymenTest - === Test Suite Started ===
+2025-12-03 13:47:45 [main] INFO  com.beymen.utils.ConfigReader - Config properties loaded successfully
+2025-12-03 13:47:45 [main] INFO  com.beymen.base.BaseTest - Starting browser: chrome
+2025-12-03 13:47:54 [main] INFO  com.beymen.base.BaseTest - Navigated to: https://www.beymen.com
+2025-12-03 13:47:54 [main] INFO  com.beymen.tests.BeymenTest - Step 1: Verifying homepage is loaded
+2025-12-03 13:47:56 [main] INFO  com.beymen.pages.HomePage - Clicked on element: By.id: onetrust-accept-btn-handler
+2025-12-03 13:47:56 [main] INFO  com.beymen.pages.HomePage - Cookies accepted
+2025-12-03 13:47:57 [main] INFO  com.beymen.pages.HomePage - Clicked on element: By.cssSelector: .o-modal__closeButton
+2025-12-03 13:47:57 [main] INFO  com.beymen.pages.HomePage - Gender popup closed
+2025-12-03 13:47:57 [main] INFO  com.beymen.pages.HomePage - Homepage loaded: true
+2025-12-03 13:47:57 [main] INFO  com.beymen.tests.BeymenTest - Homepage loaded successfully
+2025-12-03 13:47:57 [main] INFO  com.beymen.tests.BeymenTest - Step 2-3: Reading 'şort' from Excel and searching
+2025-12-03 13:47:57 [main] ERROR com.beymen.utils.ExcelReader - Error loading Excel file: testdata.xlsx (No such file or directory)
+2025-12-03 13:47:57 [main] INFO  com.beymen.tests.BeymenTest - === Test Suite Finished ===
+2025-12-03 13:47:57 [main] INFO  com.beymen.base.BaseTest - Browser closed
+2025-12-03 13:49:27 [main] INFO  com.beymen.tests.BeymenTest - === Test Suite Started ===
+2025-12-03 13:49:27 [main] INFO  com.beymen.utils.ConfigReader - Config properties loaded successfully
+2025-12-03 13:49:27 [main] INFO  com.beymen.base.BaseTest - Starting browser: chrome
+2025-12-03 13:49:30 [main] INFO  com.beymen.base.BaseTest - Navigated to: https://www.beymen.com
+2025-12-03 13:49:30 [main] INFO  com.beymen.tests.BeymenTest - Step 1: Verifying homepage is loaded
+2025-12-03 13:49:32 [main] INFO  com.beymen.pages.HomePage - Clicked on element: By.id: onetrust-accept-btn-handler
+2025-12-03 13:49:32 [main] INFO  com.beymen.pages.HomePage - Cookies accepted
+2025-12-03 13:49:33 [main] INFO  com.beymen.pages.HomePage - Clicked on element: By.cssSelector: .o-modal__closeButton
+2025-12-03 13:49:33 [main] INFO  com.beymen.pages.HomePage - Gender popup closed
+2025-12-03 13:49:33 [main] INFO  com.beymen.pages.HomePage - Homepage loaded: true
+2025-12-03 13:49:33 [main] INFO  com.beymen.tests.BeymenTest - Homepage loaded successfully
+2025-12-03 13:49:33 [main] INFO  com.beymen.tests.BeymenTest - Step 2-3: Reading 'şort' from Excel and searching
+2025-12-03 13:49:33 [main] INFO  com.beymen.utils.ExcelReader - Excel file loaded: testdata.xlsx
+2025-12-03 13:49:33 [main] INFO  com.beymen.utils.ExcelReader - Read cell [0,0]: şort
+2025-12-03 13:49:33 [main] INFO  com.beymen.tests.BeymenTest - Search term from Excel (col 0, row 0): şort
+2025-12-03 13:49:33 [main] INFO  com.beymen.pages.HomePage - Searched for: şort
+2025-12-03 13:49:34 [main] INFO  com.beymen.tests.BeymenTest - Step 4: Clearing search box
+2025-12-03 13:49:35 [main] INFO  com.beymen.tests.BeymenTest - === Test Suite Finished ===
+2025-12-03 13:49:35 [main] INFO  com.beymen.base.BaseTest - Browser closed
+2025-12-03 13:51:31 [main] INFO  com.beymen.tests.BeymenTest - === Test Suite Started ===
+2025-12-03 13:51:31 [main] INFO  com.beymen.utils.ConfigReader - Config properties loaded successfully
+2025-12-03 13:51:31 [main] INFO  com.beymen.base.BaseTest - Starting browser: chrome
+2025-12-03 13:51:34 [main] INFO  com.beymen.base.BaseTest - Navigated to: https://www.beymen.com
+2025-12-03 13:51:34 [main] INFO  com.beymen.tests.BeymenTest - Step 1: Verifying homepage is loaded
+2025-12-03 13:51:36 [main] INFO  com.beymen.pages.HomePage - Clicked on element: By.id: onetrust-accept-btn-handler
+2025-12-03 13:51:36 [main] INFO  com.beymen.pages.HomePage - Cookies accepted
+2025-12-03 13:51:38 [main] INFO  com.beymen.pages.HomePage - Clicked on element: By.cssSelector: .o-modal__closeButton
+2025-12-03 13:51:38 [main] INFO  com.beymen.pages.HomePage - Gender popup closed
+2025-12-03 13:51:40 [main] INFO  com.beymen.pages.HomePage - Homepage loaded: true
+2025-12-03 13:51:40 [main] INFO  com.beymen.tests.BeymenTest - Homepage loaded successfully
+2025-12-03 13:51:40 [main] INFO  com.beymen.tests.BeymenTest - Step 2-3: Reading 'şort' from Excel and searching
+2025-12-03 13:51:41 [main] INFO  com.beymen.utils.ExcelReader - Excel file loaded: testdata.xlsx
+2025-12-03 13:51:41 [main] INFO  com.beymen.utils.ExcelReader - Read cell [0,0]: şort
+2025-12-03 13:51:41 [main] INFO  com.beymen.tests.BeymenTest - Search term from Excel (col 0, row 0): şort
+2025-12-03 13:51:42 [main] INFO  com.beymen.pages.HomePage - Search box opened
+2025-12-03 13:51:42 [main] INFO  com.beymen.pages.HomePage - Searched for: şort
+2025-12-03 13:51:42 [main] INFO  com.beymen.tests.BeymenTest - Step 4: Clearing search box
+2025-12-03 13:51:53 [main] WARN  com.beymen.pages.HomePage - Could not click search trigger: element click intercepted: Element <input maxlength="100" placeholder="Ürün, Marka Arayın" class="o-header__search--input"> is not clickable at point (822, 81). Other element would receive the click: <input id="o-searchSuggestion__input" name="qSugesstion" type="text" placeholder="Ürün, Marka Arayın" maxlength="100" autocomplete="off" autocapitalize="off" autocorrect="off" class="o-header__search--input">
+  (Session info: chrome=142.0.7444.176)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.6.1', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [31d3a39d0a2a097bd9bc4d9e5a99f3d9, clickElement {id=f.05E56694FCE69583CDC2FD6E23EB34EA.d.062289AF94D9130F8323B7AB7022EEAB.e.1}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: /var/folders/k5/zqcjy41d2vx...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58911}, goog:processID: 1880, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:58911/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (31d3a39d0a2a097bd9bc4d9e5a99f3d9)] -> css selector: input.o-header__search--input]
+Session ID: 31d3a39d0a2a097bd9bc4d9e5a99f3d9
+2025-12-03 13:51:54 [main] INFO  com.beymen.pages.HomePage - Search box cleared
+2025-12-03 13:51:54 [main] INFO  com.beymen.tests.BeymenTest - Step 5-6: Reading 'gömlek' from Excel and searching
+2025-12-03 13:51:54 [main] INFO  com.beymen.utils.ExcelReader - Read cell [1,0]: gömlek
+2025-12-03 13:51:54 [main] INFO  com.beymen.tests.BeymenTest - Search term from Excel (col 1, row 0): gömlek
+2025-12-03 13:51:55 [main] WARN  com.beymen.pages.HomePage - Could not click search trigger: element click intercepted: Element <input maxlength="100" placeholder="Ürün, Marka Arayın" class="o-header__search--input"> is not clickable at point (822, 81). Other element would receive the click: <input id="o-searchSuggestion__input" name="qSugesstion" type="text" placeholder="Ürün, Marka Arayın" maxlength="100" autocomplete="off" autocapitalize="off" autocorrect="off" class="o-header__search--input">
+  (Session info: chrome=142.0.7444.176)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.6.1', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [31d3a39d0a2a097bd9bc4d9e5a99f3d9, clickElement {id=f.05E56694FCE69583CDC2FD6E23EB34EA.d.062289AF94D9130F8323B7AB7022EEAB.e.1}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: /var/folders/k5/zqcjy41d2vx...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58911}, goog:processID: 1880, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:58911/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (31d3a39d0a2a097bd9bc4d9e5a99f3d9)] -> css selector: input.o-header__search--input]
+Session ID: 31d3a39d0a2a097bd9bc4d9e5a99f3d9
+2025-12-03 13:51:55 [main] INFO  com.beymen.pages.HomePage - Searched and submitted: gömlek
+2025-12-03 13:51:57 [main] INFO  com.beymen.utils.ExcelReader - Excel workbook closed
+2025-12-03 13:51:57 [main] INFO  com.beymen.tests.BeymenTest - Step 7: Selecting random product
+2025-12-03 13:51:59 [main] INFO  com.beymen.pages.SearchResultsPage - Products found: 48
+2025-12-03 13:52:22 [main] INFO  com.beymen.tests.BeymenTest - === Test Suite Finished ===
+2025-12-03 13:52:22 [main] INFO  com.beymen.base.BaseTest - Browser closed
+2025-12-03 13:53:45 [main] INFO  com.beymen.tests.BeymenTest - === Test Suite Started ===
+2025-12-03 13:53:45 [main] INFO  com.beymen.utils.ConfigReader - Config properties loaded successfully
+2025-12-03 13:53:45 [main] INFO  com.beymen.base.BaseTest - Starting browser: chrome
+2025-12-03 13:53:49 [main] INFO  com.beymen.base.BaseTest - Navigated to: https://www.beymen.com
+2025-12-03 13:53:49 [main] INFO  com.beymen.tests.BeymenTest - Step 1: Verifying homepage is loaded
+2025-12-03 13:53:51 [main] INFO  com.beymen.pages.HomePage - Clicked on element: By.id: onetrust-accept-btn-handler
+2025-12-03 13:53:51 [main] INFO  com.beymen.pages.HomePage - Cookies accepted
+2025-12-03 13:53:53 [main] INFO  com.beymen.pages.HomePage - Clicked on element: By.cssSelector: .o-modal__closeButton
+2025-12-03 13:53:53 [main] INFO  com.beymen.pages.HomePage - Gender popup closed
+2025-12-03 13:53:55 [main] INFO  com.beymen.pages.HomePage - Homepage loaded: true
+2025-12-03 13:53:55 [main] INFO  com.beymen.tests.BeymenTest - Homepage loaded successfully
+2025-12-03 13:53:55 [main] INFO  com.beymen.tests.BeymenTest - Step 2-3: Reading 'şort' from Excel and searching
+2025-12-03 13:53:56 [main] INFO  com.beymen.utils.ExcelReader - Excel file loaded: testdata.xlsx
+2025-12-03 13:53:56 [main] INFO  com.beymen.utils.ExcelReader - Read cell [0,0]: şort
+2025-12-03 13:53:56 [main] INFO  com.beymen.tests.BeymenTest - Search term from Excel (col 0, row 0): şort
+2025-12-03 13:53:57 [main] INFO  com.beymen.pages.HomePage - Search box opened
+2025-12-03 13:53:57 [main] INFO  com.beymen.pages.HomePage - Searched for: şort
+2025-12-03 13:53:57 [main] INFO  com.beymen.tests.BeymenTest - Step 4: Clearing search box
+2025-12-03 13:54:08 [main] WARN  com.beymen.pages.HomePage - Could not click search trigger: element click intercepted: Element <input maxlength="100" placeholder="Ürün, Marka Arayın" class="o-header__search--input"> is not clickable at point (822, 81). Other element would receive the click: <input id="o-searchSuggestion__input" name="qSugesstion" type="text" placeholder="Ürün, Marka Arayın" maxlength="100" autocomplete="off" autocapitalize="off" autocorrect="off" class="o-header__search--input">
+  (Session info: chrome=142.0.7444.176)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.6.1', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [30ded6a367c33b8753e5de48bc395d1c, clickElement {id=f.681E212015C45A2352D3CEAED1BDA916.d.130FF7C22DDFB8D1810A352CB5DF94E7.e.1}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: /var/folders/k5/zqcjy41d2vx...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59382}, goog:processID: 2103, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:59382/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (30ded6a367c33b8753e5de48bc395d1c)] -> css selector: input.o-header__search--input]
+Session ID: 30ded6a367c33b8753e5de48bc395d1c
+2025-12-03 13:54:09 [main] INFO  com.beymen.pages.HomePage - Search box cleared
+2025-12-03 13:54:09 [main] INFO  com.beymen.tests.BeymenTest - Step 5-6: Reading 'gömlek' from Excel and searching
+2025-12-03 13:54:09 [main] INFO  com.beymen.utils.ExcelReader - Read cell [1,0]: gömlek
+2025-12-03 13:54:09 [main] INFO  com.beymen.tests.BeymenTest - Search term from Excel (col 1, row 0): gömlek
+2025-12-03 13:54:10 [main] WARN  com.beymen.pages.HomePage - Could not click search trigger: element click intercepted: Element <input maxlength="100" placeholder="Ürün, Marka Arayın" class="o-header__search--input"> is not clickable at point (822, 81). Other element would receive the click: <input id="o-searchSuggestion__input" name="qSugesstion" type="text" placeholder="Ürün, Marka Arayın" maxlength="100" autocomplete="off" autocapitalize="off" autocorrect="off" class="o-header__search--input">
+  (Session info: chrome=142.0.7444.176)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.6.1', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [30ded6a367c33b8753e5de48bc395d1c, clickElement {id=f.681E212015C45A2352D3CEAED1BDA916.d.130FF7C22DDFB8D1810A352CB5DF94E7.e.1}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: /var/folders/k5/zqcjy41d2vx...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59382}, goog:processID: 2103, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:59382/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (30ded6a367c33b8753e5de48bc395d1c)] -> css selector: input.o-header__search--input]
+Session ID: 30ded6a367c33b8753e5de48bc395d1c
+2025-12-03 13:54:12 [main] INFO  com.beymen.pages.HomePage - Searched and submitted: gömlek
+2025-12-03 13:54:14 [main] INFO  com.beymen.utils.ExcelReader - Excel workbook closed
+2025-12-03 13:54:14 [main] INFO  com.beymen.tests.BeymenTest - Step 7: Selecting random product
+2025-12-03 13:54:27 [main] INFO  com.beymen.pages.SearchResultsPage - Products found: 0
+2025-12-03 13:54:27 [main] INFO  com.beymen.tests.BeymenTest - === Test Suite Finished ===
+2025-12-03 13:54:27 [main] INFO  com.beymen.base.BaseTest - Browser closed
+2025-12-03 13:56:23 [main] INFO  com.beymen.tests.BeymenTest - === Test Suite Started ===
+2025-12-03 13:56:23 [main] INFO  com.beymen.utils.ConfigReader - Config properties loaded successfully
+2025-12-03 13:56:23 [main] INFO  com.beymen.base.BaseTest - Starting browser: chrome
+2025-12-03 13:56:27 [main] INFO  com.beymen.base.BaseTest - Navigated to: https://www.beymen.com
+2025-12-03 13:56:27 [main] INFO  com.beymen.tests.BeymenTest - Step 1: Verifying homepage is loaded
+2025-12-03 13:56:29 [main] INFO  com.beymen.pages.HomePage - Clicked on element: By.id: onetrust-accept-btn-handler
+2025-12-03 13:56:29 [main] INFO  com.beymen.pages.HomePage - Cookies accepted
+2025-12-03 13:56:31 [main] INFO  com.beymen.pages.HomePage - Clicked on element: By.cssSelector: .o-modal__closeButton
+2025-12-03 13:56:31 [main] INFO  com.beymen.pages.HomePage - Gender popup closed
+2025-12-03 13:56:33 [main] INFO  com.beymen.pages.HomePage - Homepage loaded: true
+2025-12-03 13:56:33 [main] INFO  com.beymen.tests.BeymenTest - Homepage loaded successfully
+2025-12-03 13:56:33 [main] INFO  com.beymen.tests.BeymenTest - Step 2-3: Reading 'şort' from Excel and searching
+2025-12-03 13:56:34 [main] INFO  com.beymen.utils.ExcelReader - Excel file loaded: testdata.xlsx
+2025-12-03 13:56:34 [main] INFO  com.beymen.utils.ExcelReader - Read cell [0,0]: şort
+2025-12-03 13:56:34 [main] INFO  com.beymen.tests.BeymenTest - Search term from Excel (col 0, row 0): şort
+2025-12-03 13:56:35 [main] INFO  com.beymen.pages.HomePage - Search box opened
+2025-12-03 13:56:35 [main] INFO  com.beymen.pages.HomePage - Searched for: şort
+2025-12-03 13:56:35 [main] INFO  com.beymen.tests.BeymenTest - Step 4: Clearing search box
+2025-12-03 13:56:46 [main] WARN  com.beymen.pages.HomePage - Could not click search trigger: element click intercepted: Element <input maxlength="100" placeholder="Ürün, Marka Arayın" class="o-header__search--input"> is not clickable at point (822, 81). Other element would receive the click: <input id="o-searchSuggestion__input" name="qSugesstion" type="text" placeholder="Ürün, Marka Arayın" maxlength="100" autocomplete="off" autocapitalize="off" autocorrect="off" class="o-header__search--input">
+  (Session info: chrome=142.0.7444.176)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.6.1', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ea5ebb8b8c7edb061cd2aabc4bfa21b3, clickElement {id=f.CB29920A1E40626CCA7478E86FDDE739.d.71FD4C4708390DA92AC976D7A9A102C0.e.1}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: /var/folders/k5/zqcjy41d2vx...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59941}, goog:processID: 2357, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:59941/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (ea5ebb8b8c7edb061cd2aabc4bfa21b3)] -> css selector: input.o-header__search--input]
+Session ID: ea5ebb8b8c7edb061cd2aabc4bfa21b3
+2025-12-03 13:56:47 [main] INFO  com.beymen.pages.HomePage - Search box cleared
+2025-12-03 13:56:47 [main] INFO  com.beymen.tests.BeymenTest - Step 5-6: Reading 'gömlek' from Excel and searching
+2025-12-03 13:56:47 [main] INFO  com.beymen.utils.ExcelReader - Read cell [1,0]: gömlek
+2025-12-03 13:56:47 [main] INFO  com.beymen.tests.BeymenTest - Search term from Excel (col 1, row 0): gömlek
+2025-12-03 13:56:48 [main] WARN  com.beymen.pages.HomePage - Could not click search trigger: element click intercepted: Element <input maxlength="100" placeholder="Ürün, Marka Arayın" class="o-header__search--input"> is not clickable at point (822, 81). Other element would receive the click: <input id="o-searchSuggestion__input" name="qSugesstion" type="text" placeholder="Ürün, Marka Arayın" maxlength="100" autocomplete="off" autocapitalize="off" autocorrect="off" class="o-header__search--input">
+  (Session info: chrome=142.0.7444.176)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.6.1', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ea5ebb8b8c7edb061cd2aabc4bfa21b3, clickElement {id=f.CB29920A1E40626CCA7478E86FDDE739.d.71FD4C4708390DA92AC976D7A9A102C0.e.1}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: /var/folders/k5/zqcjy41d2vx...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59941}, goog:processID: 2357, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:59941/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (ea5ebb8b8c7edb061cd2aabc4bfa21b3)] -> css selector: input.o-header__search--input]
+Session ID: ea5ebb8b8c7edb061cd2aabc4bfa21b3
+2025-12-03 13:56:50 [main] INFO  com.beymen.pages.HomePage - Searched and submitted: gömlek
+2025-12-03 13:56:52 [main] INFO  com.beymen.utils.ExcelReader - Excel workbook closed
+2025-12-03 13:56:55 [main] INFO  com.beymen.tests.BeymenTest - Current URL after search: https://www.beymen.com/tr/search?q=g%C3%B6mlek
+2025-12-03 13:56:55 [main] INFO  com.beymen.tests.BeymenTest - Step 7: Selecting random product
+2025-12-03 13:57:05 [main] INFO  com.beymen.pages.SearchResultsPage - Found 144 products with selector: .o-productList__item a
+2025-12-03 13:57:05 [main] INFO  com.beymen.tests.BeymenTest - Product count: 144
+2025-12-03 13:57:20 [main] INFO  com.beymen.pages.SearchResultsPage - Found 144 products with selector: .o-productList__item a
+2025-12-03 13:57:21 [main] INFO  com.beymen.pages.SearchResultsPage - Selecting random product at index: 3
+2025-12-03 13:57:21 [main] INFO  com.beymen.pages.SearchResultsPage - Product URL: https://www.beymen.com/tr/p_beymen-club-siyah-kapitoneli-dis-gomlek_1834472
+2025-12-03 13:57:24 [main] INFO  com.beymen.tests.BeymenTest - Step 8: Writing product info to file
+2025-12-03 13:57:25 [main] INFO  com.beymen.pages.ProductPage - Got text from element: Beymen Club
+Siyah Kapitoneli Dış Gömlek
+2025-12-03 13:57:25 [main] INFO  com.beymen.pages.ProductPage - Product name: Beymen Club
+Siyah Kapitoneli Dış Gömlek
+2025-12-03 13:57:45 [main] INFO  com.beymen.utils.FileWriterUtil - Product info written to file: Beymen Club
+Siyah Kapitoneli Dış Gömlek - 0 TL
+2025-12-03 13:57:45 [main] INFO  com.beymen.tests.BeymenTest - Product info written - Name: Beymen Club
+Siyah Kapitoneli Dış Gömlek, Price: 0 TL
+2025-12-03 13:57:45 [main] INFO  com.beymen.tests.BeymenTest - Step 9: Adding product to cart
+2025-12-03 13:57:46 [main] INFO  com.beymen.pages.ProductPage - Size selected
+2025-12-03 13:58:08 [main] ERROR com.beymen.pages.ProductPage - Error adding to cart: Expected condition failed: waiting for element to be clickable: By.cssSelector: button.m-productDetail__addToCart, .o-productDetail__addToCart button (tried for 15 second(s) with 500 milliseconds interval)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.6.1', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: /var/folders/k5/zqcjy41d2vx...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59941}, goog:processID: 2357, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:59941/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: ea5ebb8b8c7edb061cd2aabc4bfa21b3
+2025-12-03 13:58:08 [main] INFO  com.beymen.tests.BeymenTest - === Test Suite Finished ===
+2025-12-03 13:58:09 [main] INFO  com.beymen.base.BaseTest - Browser closed
+2025-12-03 14:01:17 [main] INFO  com.beymen.tests.BeymenTest - === Test Suite Started ===
+2025-12-03 14:01:17 [main] INFO  com.beymen.utils.ConfigReader - Config properties loaded successfully
+2025-12-03 14:01:17 [main] INFO  com.beymen.base.BaseTest - Starting browser: chrome
+2025-12-03 14:01:20 [main] INFO  com.beymen.base.BaseTest - Navigated to: https://www.beymen.com
+2025-12-03 14:01:20 [main] INFO  com.beymen.tests.BeymenTest - Step 1: Verifying homepage is loaded
+2025-12-03 14:01:22 [main] INFO  com.beymen.pages.HomePage - Clicked on element: By.id: onetrust-accept-btn-handler
+2025-12-03 14:01:22 [main] INFO  com.beymen.pages.HomePage - Cookies accepted
+2025-12-03 14:01:24 [main] INFO  com.beymen.pages.HomePage - Clicked on element: By.cssSelector: .o-modal__closeButton
+2025-12-03 14:01:24 [main] INFO  com.beymen.pages.HomePage - Gender popup closed
+2025-12-03 14:01:27 [main] INFO  com.beymen.pages.HomePage - Homepage loaded: true
+2025-12-03 14:01:27 [main] INFO  com.beymen.tests.BeymenTest - Homepage loaded successfully
+2025-12-03 14:01:27 [main] INFO  com.beymen.tests.BeymenTest - Step 2-3: Reading 'şort' from Excel and searching
+2025-12-03 14:01:27 [main] INFO  com.beymen.utils.ExcelReader - Excel file loaded: testdata.xlsx
+2025-12-03 14:01:27 [main] INFO  com.beymen.utils.ExcelReader - Read cell [0,0]: şort
+2025-12-03 14:01:27 [main] INFO  com.beymen.tests.BeymenTest - Search term from Excel (col 0, row 0): şort
+2025-12-03 14:01:28 [main] INFO  com.beymen.pages.HomePage - Search box opened
+2025-12-03 14:01:28 [main] INFO  com.beymen.pages.HomePage - Searched for: şort
+2025-12-03 14:01:28 [main] INFO  com.beymen.tests.BeymenTest - Step 4: Clearing search box
+2025-12-03 14:01:40 [main] WARN  com.beymen.pages.HomePage - Could not click search trigger: element click intercepted: Element <input maxlength="100" placeholder="Ürün, Marka Arayın" class="o-header__search--input"> is not clickable at point (822, 81). Other element would receive the click: <input id="o-searchSuggestion__input" name="qSugesstion" type="text" placeholder="Ürün, Marka Arayın" maxlength="100" autocomplete="off" autocapitalize="off" autocorrect="off" class="o-header__search--input">
+  (Session info: chrome=142.0.7444.176)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.6.1', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [bfbc6cb9734d8fe1e3d2debf0ddf36af, clickElement {id=f.C5310E338AE569B6CDA47DD03B44BCAB.d.E657992D20A58115C75356F2FF78B282.e.1}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: /var/folders/k5/zqcjy41d2vx...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60960}, goog:processID: 2733, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:60960/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (bfbc6cb9734d8fe1e3d2debf0ddf36af)] -> css selector: input.o-header__search--input]
+Session ID: bfbc6cb9734d8fe1e3d2debf0ddf36af
+2025-12-03 14:01:40 [main] INFO  com.beymen.pages.HomePage - Search box cleared
+2025-12-03 14:01:40 [main] INFO  com.beymen.tests.BeymenTest - Step 5-6: Reading 'gömlek' from Excel and searching
+2025-12-03 14:01:40 [main] INFO  com.beymen.utils.ExcelReader - Read cell [1,0]: gömlek
+2025-12-03 14:01:40 [main] INFO  com.beymen.tests.BeymenTest - Search term from Excel (col 1, row 0): gömlek
+2025-12-03 14:01:41 [main] WARN  com.beymen.pages.HomePage - Could not click search trigger: element click intercepted: Element <input maxlength="100" placeholder="Ürün, Marka Arayın" class="o-header__search--input"> is not clickable at point (822, 81). Other element would receive the click: <input id="o-searchSuggestion__input" name="qSugesstion" type="text" placeholder="Ürün, Marka Arayın" maxlength="100" autocomplete="off" autocapitalize="off" autocorrect="off" class="o-header__search--input">
+  (Session info: chrome=142.0.7444.176)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.6.1', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [bfbc6cb9734d8fe1e3d2debf0ddf36af, clickElement {id=f.C5310E338AE569B6CDA47DD03B44BCAB.d.E657992D20A58115C75356F2FF78B282.e.1}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: /var/folders/k5/zqcjy41d2vx...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60960}, goog:processID: 2733, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:60960/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (bfbc6cb9734d8fe1e3d2debf0ddf36af)] -> css selector: input.o-header__search--input]
+Session ID: bfbc6cb9734d8fe1e3d2debf0ddf36af
+2025-12-03 14:01:41 [main] INFO  com.beymen.pages.HomePage - Searched and submitted: gömlek
+2025-12-03 14:01:43 [main] INFO  com.beymen.utils.ExcelReader - Excel workbook closed
+2025-12-03 14:01:46 [main] INFO  com.beymen.tests.BeymenTest - Current URL after search: https://www.beymen.com/tr/search?q=g%C3%B6mlek
+2025-12-03 14:01:46 [main] INFO  com.beymen.tests.BeymenTest - Step 7: Selecting random product
+2025-12-03 14:01:56 [main] INFO  com.beymen.pages.SearchResultsPage - Found 144 products with selector: .o-productList__item a
+2025-12-03 14:01:56 [main] INFO  com.beymen.tests.BeymenTest - Product count: 144
+2025-12-03 14:02:12 [main] INFO  com.beymen.pages.SearchResultsPage - Found 144 products with selector: .o-productList__item a
+2025-12-03 14:02:12 [main] INFO  com.beymen.pages.SearchResultsPage - Selecting random product at index: 7
+2025-12-03 14:02:12 [main] INFO  com.beymen.pages.SearchResultsPage - Product URL: https://www.beymen.com/tr/brand-polo-ralph-lauren-32713
+2025-12-03 14:02:16 [main] INFO  com.beymen.tests.BeymenTest - Step 8: Writing product info to file
+2025-12-03 14:02:48 [main] INFO  com.beymen.pages.ProductPage - Found element with selector: h1
+2025-12-03 14:02:48 [main] INFO  com.beymen.pages.ProductPage - Product name: Polo Ralph Lauren
+2025-12-03 14:02:49 [main] INFO  com.beymen.pages.ProductPage - Found element with selector: [class*='price'] span
+2025-12-03 14:02:49 [main] INFO  com.beymen.pages.ProductPage - Product price: 10.950 TL
+2025-12-03 14:02:50 [main] INFO  com.beymen.pages.ProductPage - Found element with selector: [class*='price'] span
+2025-12-03 14:02:50 [main] INFO  com.beymen.pages.ProductPage - Product price: 10.950 TL
+2025-12-03 14:02:50 [main] INFO  com.beymen.utils.FileWriterUtil - Product info written to file: Polo Ralph Lauren - 10.950 TL
+2025-12-03 14:02:50 [main] INFO  com.beymen.tests.BeymenTest - Product info written - Name: Polo Ralph Lauren, Price: 10.950 TL
+2025-12-03 14:02:50 [main] INFO  com.beymen.tests.BeymenTest - Step 9: Adding product to cart
+2025-12-03 14:03:22 [main] INFO  com.beymen.pages.ProductPage - No size selection required or available
+2025-12-03 14:04:45 [main] ERROR com.beymen.pages.ProductPage - Error adding to cart: Add to cart button not found
+2025-12-03 14:04:45 [main] INFO  com.beymen.tests.BeymenTest - === Test Suite Finished ===
+2025-12-03 14:04:45 [main] INFO  com.beymen.base.BaseTest - Browser closed
+2025-12-03 14:06:52 [main] INFO  com.beymen.tests.BeymenTest - === Test Suite Started ===
+2025-12-03 14:06:52 [main] INFO  com.beymen.utils.ConfigReader - Config properties loaded successfully
+2025-12-03 14:06:52 [main] INFO  com.beymen.base.BaseTest - Starting browser: chrome
+2025-12-03 14:06:55 [main] INFO  com.beymen.base.BaseTest - Navigated to: https://www.beymen.com
+2025-12-03 14:06:55 [main] INFO  com.beymen.tests.BeymenTest - Step 1: Verifying homepage is loaded
+2025-12-03 14:06:57 [main] INFO  com.beymen.pages.HomePage - Clicked on element: By.id: onetrust-accept-btn-handler
+2025-12-03 14:06:57 [main] INFO  com.beymen.pages.HomePage - Cookies accepted
+2025-12-03 14:06:59 [main] INFO  com.beymen.pages.HomePage - Clicked on element: By.cssSelector: .o-modal__closeButton
+2025-12-03 14:06:59 [main] INFO  com.beymen.pages.HomePage - Gender popup closed
+2025-12-03 14:07:02 [main] INFO  com.beymen.pages.HomePage - Homepage loaded: true
+2025-12-03 14:07:02 [main] INFO  com.beymen.tests.BeymenTest - Homepage loaded successfully
+2025-12-03 14:07:02 [main] INFO  com.beymen.tests.BeymenTest - Step 2-3: Reading 'şort' from Excel and searching
+2025-12-03 14:07:02 [main] INFO  com.beymen.utils.ExcelReader - Excel file loaded: testdata.xlsx
+2025-12-03 14:07:02 [main] INFO  com.beymen.utils.ExcelReader - Read cell [0,0]: şort
+2025-12-03 14:07:02 [main] INFO  com.beymen.tests.BeymenTest - Search term from Excel (col 0, row 0): şort
+2025-12-03 14:07:03 [main] INFO  com.beymen.pages.HomePage - Search box opened
+2025-12-03 14:07:03 [main] INFO  com.beymen.pages.HomePage - Searched for: şort
+2025-12-03 14:07:04 [main] INFO  com.beymen.tests.BeymenTest - Step 4: Clearing search box
+2025-12-03 14:07:15 [main] WARN  com.beymen.pages.HomePage - Could not click search trigger: element click intercepted: Element <input maxlength="100" placeholder="Ürün, Marka Arayın" class="o-header__search--input"> is not clickable at point (822, 81). Other element would receive the click: <input id="o-searchSuggestion__input" name="qSugesstion" type="text" placeholder="Ürün, Marka Arayın" maxlength="100" autocomplete="off" autocapitalize="off" autocorrect="off" class="o-header__search--input">
+  (Session info: chrome=142.0.7444.176)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.6.1', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [afc9415aa8f24f91a0df0c12480b2672, clickElement {id=f.894083A75BD02059CD7948100C65E179.d.C28DDAE4F2D5EAA52F79A77D1AD3EA3F.e.1}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: /var/folders/k5/zqcjy41d2vx...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61987}, goog:processID: 3122, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:61987/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (afc9415aa8f24f91a0df0c12480b2672)] -> css selector: input.o-header__search--input]
+Session ID: afc9415aa8f24f91a0df0c12480b2672
+2025-12-03 14:07:15 [main] INFO  com.beymen.pages.HomePage - Search box cleared
+2025-12-03 14:07:15 [main] INFO  com.beymen.tests.BeymenTest - Step 5-6: Reading 'gömlek' from Excel and searching
+2025-12-03 14:07:15 [main] INFO  com.beymen.utils.ExcelReader - Read cell [1,0]: gömlek
+2025-12-03 14:07:15 [main] INFO  com.beymen.tests.BeymenTest - Search term from Excel (col 1, row 0): gömlek
+2025-12-03 14:07:16 [main] WARN  com.beymen.pages.HomePage - Could not click search trigger: element click intercepted: Element <input maxlength="100" placeholder="Ürün, Marka Arayın" class="o-header__search--input"> is not clickable at point (822, 81). Other element would receive the click: <input id="o-searchSuggestion__input" name="qSugesstion" type="text" placeholder="Ürün, Marka Arayın" maxlength="100" autocomplete="off" autocapitalize="off" autocorrect="off" class="o-header__search--input">
+  (Session info: chrome=142.0.7444.176)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.6.1', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [afc9415aa8f24f91a0df0c12480b2672, clickElement {id=f.894083A75BD02059CD7948100C65E179.d.C28DDAE4F2D5EAA52F79A77D1AD3EA3F.e.1}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: /var/folders/k5/zqcjy41d2vx...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61987}, goog:processID: 3122, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:61987/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (afc9415aa8f24f91a0df0c12480b2672)] -> css selector: input.o-header__search--input]
+Session ID: afc9415aa8f24f91a0df0c12480b2672
+2025-12-03 14:07:21 [main] INFO  com.beymen.pages.HomePage - Searched and submitted: gömlek
+2025-12-03 14:07:23 [main] INFO  com.beymen.utils.ExcelReader - Excel workbook closed
+2025-12-03 14:07:26 [main] INFO  com.beymen.tests.BeymenTest - Current URL after search: https://www.beymen.com/tr/search?q=g%C3%B6mlek
+2025-12-03 14:07:26 [main] INFO  com.beymen.tests.BeymenTest - Step 7: Selecting random product
+2025-12-03 14:07:26 [main] INFO  com.beymen.pages.SearchResultsPage - Found 144 products with selector: .o-productList__item a[href*='-']
+2025-12-03 14:07:26 [main] INFO  com.beymen.tests.BeymenTest - Product count: 144
+2025-12-03 14:07:31 [main] INFO  com.beymen.pages.SearchResultsPage - Found 144 products with selector: .o-productList__item a[href*='-']
+2025-12-03 14:07:31 [main] INFO  com.beymen.pages.SearchResultsPage - Valid product URL: https://www.beymen.com/tr/brand-ami-paris-103342
+2025-12-03 14:07:31 [main] INFO  com.beymen.pages.SearchResultsPage - Valid product URL: https://www.beymen.com/tr/brand-ami-paris-103342
+2025-12-03 14:07:31 [main] INFO  com.beymen.pages.SearchResultsPage - Valid product URL: https://www.beymen.com/tr/brand-ami-paris-103342
+2025-12-03 14:07:31 [main] INFO  com.beymen.pages.SearchResultsPage - Found 3 valid product URLs
+2025-12-03 14:07:31 [main] INFO  com.beymen.pages.SearchResultsPage - Selecting random product at index: 1
+2025-12-03 14:07:31 [main] INFO  com.beymen.pages.SearchResultsPage - Product URL: https://www.beymen.com/tr/brand-ami-paris-103342
+2025-12-03 14:07:35 [main] INFO  com.beymen.tests.BeymenTest - Step 8: Writing product info to file
+2025-12-03 14:08:08 [main] INFO  com.beymen.pages.ProductPage - Found element with selector: h1
+2025-12-03 14:08:08 [main] INFO  com.beymen.pages.ProductPage - Product name: Ami Paris
+2025-12-03 14:08:09 [main] INFO  com.beymen.pages.ProductPage - Found element with selector: [class*='price'] span
+2025-12-03 14:08:09 [main] INFO  com.beymen.pages.ProductPage - Product price: 11.450 TL
+2025-12-03 14:08:10 [main] INFO  com.beymen.pages.ProductPage - Found element with selector: [class*='price'] span
+2025-12-03 14:08:10 [main] INFO  com.beymen.pages.ProductPage - Product price: 11.450 TL
+2025-12-03 14:08:10 [main] INFO  com.beymen.utils.FileWriterUtil - Product info written to file: Ami Paris - 11.450 TL
+2025-12-03 14:08:10 [main] INFO  com.beymen.tests.BeymenTest - Product info written - Name: Ami Paris, Price: 11.450 TL
+2025-12-03 14:08:10 [main] INFO  com.beymen.tests.BeymenTest - Step 9: Adding product to cart
+2025-12-03 14:08:42 [main] INFO  com.beymen.pages.ProductPage - No size selection required or available
+2025-12-03 14:10:04 [main] ERROR com.beymen.pages.ProductPage - Error adding to cart: Add to cart button not found
+2025-12-03 14:10:04 [main] INFO  com.beymen.tests.BeymenTest - === Test Suite Finished ===
+2025-12-03 14:10:04 [main] INFO  com.beymen.base.BaseTest - Browser closed
+2025-12-03 14:10:09 [main] INFO  com.beymen.tests.BeymenTest - === Test Suite Started ===
+2025-12-03 14:10:09 [main] INFO  com.beymen.utils.ConfigReader - Config properties loaded successfully
+2025-12-03 14:10:09 [main] INFO  com.beymen.base.BaseTest - Starting browser: chrome
+2025-12-03 14:10:12 [main] INFO  com.beymen.base.BaseTest - Navigated to: https://www.beymen.com
+2025-12-03 14:10:12 [main] INFO  com.beymen.tests.BeymenTest - Step 1: Verifying homepage is loaded
+2025-12-03 14:10:14 [main] INFO  com.beymen.pages.HomePage - Clicked on element: By.id: onetrust-accept-btn-handler
+2025-12-03 14:10:14 [main] INFO  com.beymen.pages.HomePage - Cookies accepted
+2025-12-03 14:10:17 [main] INFO  com.beymen.pages.HomePage - Clicked on element: By.cssSelector: .o-modal__closeButton
+2025-12-03 14:10:17 [main] INFO  com.beymen.pages.HomePage - Gender popup closed
+2025-12-03 14:10:19 [main] INFO  com.beymen.pages.HomePage - Homepage loaded: true
+2025-12-03 14:10:19 [main] INFO  com.beymen.tests.BeymenTest - Homepage loaded successfully
+2025-12-03 14:10:19 [main] INFO  com.beymen.tests.BeymenTest - Step 2-3: Reading 'şort' from Excel and searching
+2025-12-03 14:10:19 [main] INFO  com.beymen.utils.ExcelReader - Excel file loaded: testdata.xlsx
+2025-12-03 14:10:19 [main] INFO  com.beymen.utils.ExcelReader - Read cell [0,0]: şort
+2025-12-03 14:10:19 [main] INFO  com.beymen.tests.BeymenTest - Search term from Excel (col 0, row 0): şort
+2025-12-03 14:10:20 [main] INFO  com.beymen.pages.HomePage - Search box opened
+2025-12-03 14:10:20 [main] INFO  com.beymen.pages.HomePage - Searched for: şort
+2025-12-03 14:10:21 [main] INFO  com.beymen.tests.BeymenTest - Step 4: Clearing search box
+2025-12-03 14:10:32 [main] WARN  com.beymen.pages.HomePage - Could not click search trigger: element click intercepted: Element <input maxlength="100" placeholder="Ürün, Marka Arayın" class="o-header__search--input"> is not clickable at point (822, 81). Other element would receive the click: <input id="o-searchSuggestion__input" name="qSugesstion" type="text" placeholder="Ürün, Marka Arayın" maxlength="100" autocomplete="off" autocapitalize="off" autocorrect="off" class="o-header__search--input">
+  (Session info: chrome=142.0.7444.176)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.6.1', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7bd5e6f9d1c72e73efda3f6df505ee57, clickElement {id=f.9CC8B3A79B2C496C461A9F1BE8240259.d.16ADA4716FFF64D86A0AC85BD26B2480.e.6}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: /var/folders/k5/zqcjy41d2vx...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62643}, goog:processID: 3384, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:62643/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (7bd5e6f9d1c72e73efda3f6df505ee57)] -> css selector: input.o-header__search--input]
+Session ID: 7bd5e6f9d1c72e73efda3f6df505ee57
+2025-12-03 14:10:33 [main] INFO  com.beymen.pages.HomePage - Search box cleared
+2025-12-03 14:10:33 [main] INFO  com.beymen.tests.BeymenTest - Step 5-6: Reading 'gömlek' from Excel and searching
+2025-12-03 14:10:33 [main] INFO  com.beymen.utils.ExcelReader - Read cell [1,0]: gömlek
+2025-12-03 14:10:33 [main] INFO  com.beymen.tests.BeymenTest - Search term from Excel (col 1, row 0): gömlek
+2025-12-03 14:10:34 [main] WARN  com.beymen.pages.HomePage - Could not click search trigger: element click intercepted: Element <input maxlength="100" placeholder="Ürün, Marka Arayın" class="o-header__search--input"> is not clickable at point (822, 81). Other element would receive the click: <input id="o-searchSuggestion__input" name="qSugesstion" type="text" placeholder="Ürün, Marka Arayın" maxlength="100" autocomplete="off" autocapitalize="off" autocorrect="off" class="o-header__search--input">
+  (Session info: chrome=142.0.7444.176)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.6.1', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7bd5e6f9d1c72e73efda3f6df505ee57, clickElement {id=f.9CC8B3A79B2C496C461A9F1BE8240259.d.16ADA4716FFF64D86A0AC85BD26B2480.e.6}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: /var/folders/k5/zqcjy41d2vx...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62643}, goog:processID: 3384, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:62643/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (7bd5e6f9d1c72e73efda3f6df505ee57)] -> css selector: input.o-header__search--input]
+Session ID: 7bd5e6f9d1c72e73efda3f6df505ee57
+2025-12-03 14:10:36 [main] INFO  com.beymen.pages.HomePage - Searched and submitted: gömlek
+2025-12-03 14:10:38 [main] INFO  com.beymen.utils.ExcelReader - Excel workbook closed
+2025-12-03 14:10:41 [main] INFO  com.beymen.tests.BeymenTest - Current URL after search: https://www.beymen.com/tr/search?q=g%C3%B6mlek
+2025-12-03 14:10:41 [main] INFO  com.beymen.tests.BeymenTest - Step 7: Selecting random product
+2025-12-03 14:11:01 [main] INFO  com.beymen.pages.SearchResultsPage - Found 48 product images with selector: [class*='productCard'] img
+2025-12-03 14:11:01 [main] INFO  com.beymen.tests.BeymenTest - Product count: 48
+2025-12-03 14:11:26 [main] INFO  com.beymen.pages.SearchResultsPage - Found 48 product images with selector: [class*='productCard'] img
+2025-12-03 14:11:26 [main] INFO  com.beymen.pages.SearchResultsPage - Found 48 product images
+2025-12-03 14:11:26 [main] INFO  com.beymen.pages.SearchResultsPage - Selecting random product at index: 7
+2025-12-03 14:11:28 [main] INFO  com.beymen.pages.SearchResultsPage - Clicked on product image
+2025-12-03 14:11:31 [main] INFO  com.beymen.pages.SearchResultsPage - Navigated to product page: https://www.beymen.com/tr/p_polo-ralph-lauren-lacivert-denim-gomlek_1626478?adId=UFJPRFVDVHwwfDB8MHwwfERCenxJc1l8MnwwfDB8MjF8QlI3Ynx8fDEwLjAwfDM1MDg4MTVkLTZiOWUtNGZkMi04ZGEyLTJkMjIzYWMzMTkzYXwzNTA4ODE1ZC02YjllLTRmZDItOGRhMi0yZDIyM2FjMzE5M2F8fDB8MjAyNS0xMi0wM1QxMToxMDozNFp8W118Z8O2bWxla17MgwLuK9TR&advertiserIId=3949
+2025-12-03 14:11:31 [main] INFO  com.beymen.tests.BeymenTest - Step 8: Writing product info to file
+2025-12-03 14:11:33 [main] INFO  com.beymen.pages.ProductPage - Found element with selector: h1[class*='title']
+2025-12-03 14:11:33 [main] INFO  com.beymen.pages.ProductPage - Product name: Polo Ralph Lauren
+Lacivert Denim Gömlek
+2025-12-03 14:11:34 [main] INFO  com.beymen.pages.ProductPage - Found element with selector: [class*='price'] span
+2025-12-03 14:11:34 [main] INFO  com.beymen.pages.ProductPage - Product price: 33.950 TL
+2025-12-03 14:11:35 [main] INFO  com.beymen.pages.ProductPage - Found element with selector: [class*='price'] span
+2025-12-03 14:11:35 [main] INFO  com.beymen.pages.ProductPage - Product price: 33.950 TL
+2025-12-03 14:11:35 [main] INFO  com.beymen.utils.FileWriterUtil - Product info written to file: Polo Ralph Lauren
+Lacivert Denim Gömlek - 33.950 TL
+2025-12-03 14:11:35 [main] INFO  com.beymen.tests.BeymenTest - Product info written - Name: Polo Ralph Lauren
+Lacivert Denim Gömlek, Price: 33.950 TL
+2025-12-03 14:11:35 [main] INFO  com.beymen.tests.BeymenTest - Step 9: Adding product to cart
+2025-12-03 14:11:37 [main] INFO  com.beymen.pages.ProductPage - Size selected with selector: .m-variation__item:not(.-disabled):not(.m-variation__item--disabled)
+2025-12-03 14:11:40 [main] INFO  com.beymen.pages.ProductPage - Found add to cart button with selector: #addBasket
+2025-12-03 14:11:41 [main] INFO  com.beymen.pages.ProductPage - Product added to cart
+2025-12-03 14:11:44 [main] INFO  com.beymen.tests.BeymenTest - Step 10: Navigating to cart and comparing prices
+2025-12-03 14:11:56 [main] INFO  com.beymen.pages.ProductPage - Found element with selector: [class*='basket']
+2025-12-03 14:11:56 [main] INFO  com.beymen.pages.ProductPage - Navigating to cart
+2025-12-03 14:12:01 [main] INFO  com.beymen.tests.BeymenTest - === Test Suite Finished ===
+2025-12-03 14:12:01 [main] INFO  com.beymen.base.BaseTest - Browser closed
+2025-12-03 14:16:08 [main] INFO  com.beymen.tests.BeymenTest - === Test Suite Started ===
+2025-12-03 14:16:08 [main] INFO  com.beymen.utils.ConfigReader - Config properties loaded successfully
+2025-12-03 14:16:08 [main] INFO  com.beymen.base.BaseTest - Starting browser: chrome
+2025-12-03 14:16:11 [main] INFO  com.beymen.base.BaseTest - Navigated to: https://www.beymen.com
+2025-12-03 14:16:11 [main] INFO  com.beymen.tests.BeymenTest - Step 1: Verifying homepage is loaded
+2025-12-03 14:16:13 [main] INFO  com.beymen.pages.HomePage - Clicked on element: By.id: onetrust-accept-btn-handler
+2025-12-03 14:16:13 [main] INFO  com.beymen.pages.HomePage - Cookies accepted
+2025-12-03 14:16:15 [main] INFO  com.beymen.pages.HomePage - Clicked on element: By.cssSelector: .o-modal__closeButton
+2025-12-03 14:16:15 [main] INFO  com.beymen.pages.HomePage - Gender popup closed
+2025-12-03 14:16:18 [main] INFO  com.beymen.pages.HomePage - Homepage loaded: true
+2025-12-03 14:16:18 [main] INFO  com.beymen.tests.BeymenTest - Homepage loaded successfully
+2025-12-03 14:16:18 [main] INFO  com.beymen.tests.BeymenTest - Step 2-3: Reading 'şort' from Excel and searching
+2025-12-03 14:16:18 [main] INFO  com.beymen.utils.ExcelReader - Excel file loaded: testdata.xlsx
+2025-12-03 14:16:18 [main] INFO  com.beymen.utils.ExcelReader - Read cell [0,0]: şort
+2025-12-03 14:16:18 [main] INFO  com.beymen.tests.BeymenTest - Search term from Excel (col 0, row 0): şort
+2025-12-03 14:16:19 [main] INFO  com.beymen.pages.HomePage - Search box opened
+2025-12-03 14:16:19 [main] INFO  com.beymen.pages.HomePage - Searched for: şort
+2025-12-03 14:16:20 [main] INFO  com.beymen.tests.BeymenTest - Step 4: Clearing search box
+2025-12-03 14:16:31 [main] WARN  com.beymen.pages.HomePage - Could not click search trigger: element click intercepted: Element <input maxlength="100" placeholder="Ürün, Marka Arayın" class="o-header__search--input"> is not clickable at point (822, 81). Other element would receive the click: <input id="o-searchSuggestion__input" name="qSugesstion" type="text" placeholder="Ürün, Marka Arayın" maxlength="100" autocomplete="off" autocapitalize="off" autocorrect="off" class="o-header__search--input">
+  (Session info: chrome=142.0.7444.176)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.6.1', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2ed9fbf908ec7433348c5a85d0a54cdb, clickElement {id=f.A49BB5C346906403C6F7FCB5FF6C0F97.d.2C6FE1EE24CD2424FE04C8B68B835FCA.e.1}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: /var/folders/k5/zqcjy41d2vx...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63674}, goog:processID: 3747, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:63674/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (2ed9fbf908ec7433348c5a85d0a54cdb)] -> css selector: input.o-header__search--input]
+Session ID: 2ed9fbf908ec7433348c5a85d0a54cdb
+2025-12-03 14:16:31 [main] INFO  com.beymen.pages.HomePage - Search box cleared
+2025-12-03 14:16:31 [main] INFO  com.beymen.tests.BeymenTest - Step 5-6: Reading 'gömlek' from Excel and searching
+2025-12-03 14:16:31 [main] INFO  com.beymen.utils.ExcelReader - Read cell [1,0]: gömlek
+2025-12-03 14:16:31 [main] INFO  com.beymen.tests.BeymenTest - Search term from Excel (col 1, row 0): gömlek
+2025-12-03 14:16:33 [main] WARN  com.beymen.pages.HomePage - Could not click search trigger: element click intercepted: Element <input maxlength="100" placeholder="Ürün, Marka Arayın" class="o-header__search--input"> is not clickable at point (822, 81). Other element would receive the click: <input id="o-searchSuggestion__input" name="qSugesstion" type="text" placeholder="Ürün, Marka Arayın" maxlength="100" autocomplete="off" autocapitalize="off" autocorrect="off" class="o-header__search--input">
+  (Session info: chrome=142.0.7444.176)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.6.1', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2ed9fbf908ec7433348c5a85d0a54cdb, clickElement {id=f.A49BB5C346906403C6F7FCB5FF6C0F97.d.2C6FE1EE24CD2424FE04C8B68B835FCA.e.1}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: /var/folders/k5/zqcjy41d2vx...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63674}, goog:processID: 3747, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:63674/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (2ed9fbf908ec7433348c5a85d0a54cdb)] -> css selector: input.o-header__search--input]
+Session ID: 2ed9fbf908ec7433348c5a85d0a54cdb
+2025-12-03 14:16:34 [main] INFO  com.beymen.pages.HomePage - Searched and submitted: gömlek
+2025-12-03 14:16:37 [main] INFO  com.beymen.utils.ExcelReader - Excel workbook closed
+2025-12-03 14:16:40 [main] INFO  com.beymen.tests.BeymenTest - Current URL after search: https://www.beymen.com/tr/search?q=g%C3%B6mlek
+2025-12-03 14:16:40 [main] INFO  com.beymen.tests.BeymenTest - Step 7: Selecting random product
+2025-12-03 14:17:00 [main] INFO  com.beymen.pages.SearchResultsPage - Found 48 product images with selector: [class*='productCard'] img
+2025-12-03 14:17:00 [main] INFO  com.beymen.tests.BeymenTest - Product count: 48
+2025-12-03 14:17:25 [main] INFO  com.beymen.pages.SearchResultsPage - Found 48 product images with selector: [class*='productCard'] img
+2025-12-03 14:17:25 [main] INFO  com.beymen.pages.SearchResultsPage - Found 48 product images
+2025-12-03 14:17:25 [main] INFO  com.beymen.pages.SearchResultsPage - Selecting random product at index: 9
+2025-12-03 14:17:27 [main] INFO  com.beymen.pages.SearchResultsPage - Clicked on product image
+2025-12-03 14:17:30 [main] INFO  com.beymen.pages.SearchResultsPage - Navigated to product page: https://www.beymen.com/tr/p_beymen-club-taba-dis-gomlek_1852492
+2025-12-03 14:17:30 [main] INFO  com.beymen.tests.BeymenTest - Step 8: Writing product info to file
+2025-12-03 14:17:32 [main] INFO  com.beymen.pages.ProductPage - Found element with selector: h1[class*='title']
+2025-12-03 14:17:32 [main] INFO  com.beymen.pages.ProductPage - Product name: Beymen Club
+Taba Dış Gömlek
+2025-12-03 14:17:33 [main] INFO  com.beymen.pages.ProductPage - Found element with selector: [class*='price'] span
+2025-12-03 14:17:33 [main] INFO  com.beymen.pages.ProductPage - Product price: Yapı Kredi ile 3 ve üzeri
+2025-12-03 14:17:34 [main] INFO  com.beymen.pages.ProductPage - Found element with selector: [class*='price'] span
+2025-12-03 14:17:34 [main] INFO  com.beymen.pages.ProductPage - Product price: Yapı Kredi ile 3 ve üzeri
+2025-12-03 14:17:34 [main] INFO  com.beymen.utils.FileWriterUtil - Product info written to file: Beymen Club
+Taba Dış Gömlek - Yapı Kredi ile 3 ve üzeri
+2025-12-03 14:17:34 [main] INFO  com.beymen.tests.BeymenTest - Product info written - Name: Beymen Club
+Taba Dış Gömlek, Price: Yapı Kredi ile 3 ve üzeri
+2025-12-03 14:17:34 [main] INFO  com.beymen.tests.BeymenTest - Step 9: Adding product to cart
+2025-12-03 14:17:36 [main] INFO  com.beymen.pages.ProductPage - Size selected with selector: .m-variation__item:not(.-disabled):not(.m-variation__item--disabled)
+2025-12-03 14:17:39 [main] INFO  com.beymen.pages.ProductPage - Found add to cart button with selector: #addBasket
+2025-12-03 14:17:40 [main] INFO  com.beymen.pages.ProductPage - Product added to cart
+2025-12-03 14:17:43 [main] INFO  com.beymen.tests.BeymenTest - Step 10: Navigating to cart and comparing prices
+2025-12-03 14:18:55 [main] INFO  com.beymen.pages.ProductPage - Popup button not found, navigating directly to cart
+2025-12-03 14:18:59 [main] INFO  com.beymen.pages.ProductPage - Cart page URL: https://www.beymen.com/tr
+2025-12-03 14:19:02 [main] INFO  com.beymen.pages.CartPage - Checking cart page URL: https://www.beymen.com/tr
+2025-12-03 14:19:32 [main] INFO  com.beymen.pages.CartPage - Found cart items with selector: [class*='productCard']
+2025-12-03 14:19:32 [main] INFO  com.beymen.pages.CartPage - Cart page loaded: true
+2025-12-03 14:19:54 [main] INFO  com.beymen.pages.CartPage - Cart price found: 10.950 TL
+2025-12-03 14:19:54 [main] INFO  com.beymen.pages.CartPage - Price comparison - Product page: 3.0, Cart: 10950.0, Match: false
+2025-12-03 14:19:55 [main] INFO  com.beymen.tests.BeymenTest - === Test Suite Finished ===
+2025-12-03 14:19:55 [main] INFO  com.beymen.base.BaseTest - Browser closed
+2025-12-03 14:22:55 [main] INFO  com.beymen.tests.BeymenTest - === Test Suite Started ===
+2025-12-03 14:22:55 [main] INFO  com.beymen.utils.ConfigReader - Config properties loaded successfully
+2025-12-03 14:22:55 [main] INFO  com.beymen.base.BaseTest - Starting browser: chrome
+2025-12-03 14:22:59 [main] INFO  com.beymen.base.BaseTest - Navigated to: https://www.beymen.com
+2025-12-03 14:22:59 [main] INFO  com.beymen.tests.BeymenTest - Step 1: Verifying homepage is loaded
+2025-12-03 14:23:01 [main] INFO  com.beymen.pages.HomePage - Clicked on element: By.id: onetrust-accept-btn-handler
+2025-12-03 14:23:01 [main] INFO  com.beymen.pages.HomePage - Cookies accepted
+2025-12-03 14:23:03 [main] INFO  com.beymen.pages.HomePage - Clicked on element: By.cssSelector: .o-modal__closeButton
+2025-12-03 14:23:03 [main] INFO  com.beymen.pages.HomePage - Gender popup closed
+2025-12-03 14:23:05 [main] INFO  com.beymen.pages.HomePage - Homepage loaded: true
+2025-12-03 14:23:05 [main] INFO  com.beymen.tests.BeymenTest - Homepage loaded successfully
+2025-12-03 14:23:05 [main] INFO  com.beymen.tests.BeymenTest - Step 2-3: Reading 'şort' from Excel and searching
+2025-12-03 14:23:06 [main] INFO  com.beymen.utils.ExcelReader - Excel file loaded: testdata.xlsx
+2025-12-03 14:23:06 [main] INFO  com.beymen.utils.ExcelReader - Read cell [0,0]: şort
+2025-12-03 14:23:06 [main] INFO  com.beymen.tests.BeymenTest - Search term from Excel (col 0, row 0): şort
+2025-12-03 14:23:07 [main] INFO  com.beymen.pages.HomePage - Search box opened
+2025-12-03 14:23:07 [main] INFO  com.beymen.pages.HomePage - Searched for: şort
+2025-12-03 14:23:07 [main] INFO  com.beymen.tests.BeymenTest - Step 4: Clearing search box
+2025-12-03 14:23:18 [main] WARN  com.beymen.pages.HomePage - Could not click search trigger: element click intercepted: Element <input maxlength="100" placeholder="Ürün, Marka Arayın" class="o-header__search--input"> is not clickable at point (822, 81). Other element would receive the click: <input id="o-searchSuggestion__input" name="qSugesstion" type="text" placeholder="Ürün, Marka Arayın" maxlength="100" autocomplete="off" autocapitalize="off" autocorrect="off" class="o-header__search--input">
+  (Session info: chrome=142.0.7444.176)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.6.1', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [725dbcf11fd42681f47eaa3384533521, clickElement {id=f.2D7E6FC22E2800496B38287BA42ABE1A.d.89D2769726433199F5AB009CDC3E580A.e.1}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: /var/folders/k5/zqcjy41d2vx...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64766}, goog:processID: 4117, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:64766/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (725dbcf11fd42681f47eaa3384533521)] -> css selector: input.o-header__search--input]
+Session ID: 725dbcf11fd42681f47eaa3384533521
+2025-12-03 14:23:19 [main] INFO  com.beymen.pages.HomePage - Search box cleared
+2025-12-03 14:23:19 [main] INFO  com.beymen.tests.BeymenTest - Step 5-6: Reading 'gömlek' from Excel and searching
+2025-12-03 14:23:19 [main] INFO  com.beymen.utils.ExcelReader - Read cell [1,0]: gömlek
+2025-12-03 14:23:19 [main] INFO  com.beymen.tests.BeymenTest - Search term from Excel (col 1, row 0): gömlek
+2025-12-03 14:23:20 [main] WARN  com.beymen.pages.HomePage - Could not click search trigger: element click intercepted: Element <input maxlength="100" placeholder="Ürün, Marka Arayın" class="o-header__search--input"> is not clickable at point (822, 81). Other element would receive the click: <input id="o-searchSuggestion__input" name="qSugesstion" type="text" placeholder="Ürün, Marka Arayın" maxlength="100" autocomplete="off" autocapitalize="off" autocorrect="off" class="o-header__search--input">
+  (Session info: chrome=142.0.7444.176)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.6.1', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [725dbcf11fd42681f47eaa3384533521, clickElement {id=f.2D7E6FC22E2800496B38287BA42ABE1A.d.89D2769726433199F5AB009CDC3E580A.e.1}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: /var/folders/k5/zqcjy41d2vx...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:64766}, goog:processID: 4117, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:64766/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (725dbcf11fd42681f47eaa3384533521)] -> css selector: input.o-header__search--input]
+Session ID: 725dbcf11fd42681f47eaa3384533521
+2025-12-03 14:23:22 [main] INFO  com.beymen.pages.HomePage - Searched and submitted: gömlek
+2025-12-03 14:23:24 [main] INFO  com.beymen.utils.ExcelReader - Excel workbook closed
+2025-12-03 14:23:27 [main] INFO  com.beymen.tests.BeymenTest - Current URL after search: https://www.beymen.com/tr/search?q=g%C3%B6mlek
+2025-12-03 14:23:27 [main] INFO  com.beymen.tests.BeymenTest - Step 7: Selecting random product
+2025-12-03 14:23:47 [main] INFO  com.beymen.pages.SearchResultsPage - Found 48 product images with selector: [class*='productCard'] img
+2025-12-03 14:23:47 [main] INFO  com.beymen.tests.BeymenTest - Product count: 48
+2025-12-03 14:24:12 [main] INFO  com.beymen.pages.SearchResultsPage - Found 48 product images with selector: [class*='productCard'] img
+2025-12-03 14:24:12 [main] INFO  com.beymen.pages.SearchResultsPage - Found 48 product images
+2025-12-03 14:24:12 [main] INFO  com.beymen.pages.SearchResultsPage - Selecting random product at index: 5
+2025-12-03 14:24:15 [main] INFO  com.beymen.pages.SearchResultsPage - Clicked on product image
+2025-12-03 14:24:18 [main] INFO  com.beymen.pages.SearchResultsPage - Navigated to product page: https://www.beymen.com/tr/p_beymen-club-lacivert-dis-gomlek_1834432
+2025-12-03 14:24:18 [main] INFO  com.beymen.tests.BeymenTest - Step 8: Writing product info to file
+2025-12-03 14:24:20 [main] INFO  com.beymen.pages.ProductPage - Found element with selector: h1[class*='title']
+2025-12-03 14:24:20 [main] INFO  com.beymen.pages.ProductPage - Product name: Beymen Club
+Lacivert Dış Gömlek
+2025-12-03 14:24:21 [main] INFO  com.beymen.pages.ProductPage - Found element with selector: [class*='price'] span
+2025-12-03 14:24:21 [main] INFO  com.beymen.pages.ProductPage - Product price: Yapı Kredi ile 3 ve üzeri
+2025-12-03 14:24:22 [main] INFO  com.beymen.pages.ProductPage - Found element with selector: [class*='price'] span
+2025-12-03 14:24:22 [main] INFO  com.beymen.pages.ProductPage - Product price: Yapı Kredi ile 3 ve üzeri
+2025-12-03 14:24:22 [main] INFO  com.beymen.utils.FileWriterUtil - Product info written to file: Beymen Club
+Lacivert Dış Gömlek - Yapı Kredi ile 3 ve üzeri
+2025-12-03 14:24:22 [main] INFO  com.beymen.tests.BeymenTest - Product info written - Name: Beymen Club
+Lacivert Dış Gömlek, Price: Yapı Kredi ile 3 ve üzeri
+2025-12-03 14:24:22 [main] INFO  com.beymen.tests.BeymenTest - Step 9: Adding product to cart
+2025-12-03 14:24:24 [main] INFO  com.beymen.pages.ProductPage - Size selected with selector: .m-variation__item:not(.-disabled):not(.m-variation__item--disabled)
+2025-12-03 14:24:27 [main] INFO  com.beymen.pages.ProductPage - Found add to cart button with selector: #addBasket
+2025-12-03 14:24:28 [main] INFO  com.beymen.pages.ProductPage - Product added to cart
+2025-12-03 14:24:31 [main] INFO  com.beymen.tests.BeymenTest - Step 10: Navigating to cart and comparing prices
+2025-12-03 14:25:23 [main] INFO  com.beymen.pages.ProductPage - Sepetim link not found, navigating directly
+2025-12-03 14:25:27 [main] INFO  com.beymen.pages.ProductPage - Cart page URL: https://www.beymen.com/tr
+2025-12-03 14:25:30 [main] INFO  com.beymen.pages.CartPage - Checking cart page URL: https://www.beymen.com/tr
+2025-12-03 14:26:00 [main] INFO  com.beymen.pages.CartPage - Found cart items with selector: [class*='productCard']
+2025-12-03 14:26:00 [main] INFO  com.beymen.pages.CartPage - Cart page loaded: true
+2025-12-03 14:26:42 [main] INFO  com.beymen.pages.CartPage - Price comparison - Product page: 3.0, Cart: 0.0, Match: false
+2025-12-03 14:26:42 [main] INFO  com.beymen.tests.BeymenTest - === Test Suite Finished ===
+2025-12-03 14:26:42 [main] INFO  com.beymen.base.BaseTest - Browser closed
+2025-12-03 14:37:13 [main] INFO  com.beymen.tests.BeymenTest - === Test Suite Started ===
+2025-12-03 14:37:13 [main] INFO  com.beymen.utils.ConfigReader - Config properties loaded successfully
+2025-12-03 14:37:13 [main] INFO  com.beymen.base.BaseTest - Starting browser: chrome
+2025-12-03 14:37:19 [main] INFO  com.beymen.base.BaseTest - Navigated to: https://www.beymen.com
+2025-12-03 14:37:19 [main] INFO  com.beymen.tests.BeymenTest - Step 1: Verifying homepage is loaded
+2025-12-03 14:37:21 [main] INFO  com.beymen.pages.HomePage - Clicked on element: By.id: onetrust-accept-btn-handler
+2025-12-03 14:37:21 [main] INFO  com.beymen.pages.HomePage - Cookies accepted
+2025-12-03 14:37:23 [main] INFO  com.beymen.pages.HomePage - Clicked on element: By.cssSelector: .o-modal__closeButton
+2025-12-03 14:37:23 [main] INFO  com.beymen.pages.HomePage - Gender popup closed
+2025-12-03 14:37:26 [main] INFO  com.beymen.pages.HomePage - Homepage loaded: true
+2025-12-03 14:37:26 [main] INFO  com.beymen.tests.BeymenTest - Homepage loaded successfully
+2025-12-03 14:37:26 [main] INFO  com.beymen.tests.BeymenTest - Step 2-3: Reading 'şort' from Excel and searching
+2025-12-03 14:37:26 [main] INFO  com.beymen.utils.ExcelReader - Excel file loaded: testdata.xlsx
+2025-12-03 14:37:26 [main] INFO  com.beymen.utils.ExcelReader - Read cell [0,0]: şort
+2025-12-03 14:37:26 [main] INFO  com.beymen.tests.BeymenTest - Search term from Excel (col 0, row 0): şort
+2025-12-03 14:37:27 [main] INFO  com.beymen.pages.HomePage - Search box opened
+2025-12-03 14:37:27 [main] INFO  com.beymen.pages.HomePage - Searched for: şort
+2025-12-03 14:37:27 [main] INFO  com.beymen.tests.BeymenTest - Step 4: Clearing search box
+2025-12-03 14:37:39 [main] WARN  com.beymen.pages.HomePage - Could not click search trigger: element click intercepted: Element <input maxlength="100" placeholder="Ürün, Marka Arayın" class="o-header__search--input"> is not clickable at point (822, 81). Other element would receive the click: <input id="o-searchSuggestion__input" name="qSugesstion" type="text" placeholder="Ürün, Marka Arayın" maxlength="100" autocomplete="off" autocapitalize="off" autocorrect="off" class="o-header__search--input">
+  (Session info: chrome=142.0.7444.176)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.6.1', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a20091c8848e3572188af88902d1b043, clickElement {id=f.16D94E7CB87C79B787EC315C6313535A.d.3D604645381FCFFC1B86B08974F0EB44.e.7}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: /var/folders/k5/zqcjy41d2vx...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50572}, goog:processID: 4809, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:50572/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (a20091c8848e3572188af88902d1b043)] -> css selector: input.o-header__search--input]
+Session ID: a20091c8848e3572188af88902d1b043
+2025-12-03 14:37:39 [main] INFO  com.beymen.pages.HomePage - Search box cleared
+2025-12-03 14:37:39 [main] INFO  com.beymen.tests.BeymenTest - Step 5-6: Reading 'gömlek' from Excel and searching
+2025-12-03 14:37:39 [main] INFO  com.beymen.utils.ExcelReader - Read cell [1,0]: gömlek
+2025-12-03 14:37:39 [main] INFO  com.beymen.tests.BeymenTest - Search term from Excel (col 1, row 0): gömlek
+2025-12-03 14:37:40 [main] WARN  com.beymen.pages.HomePage - Could not click search trigger: element click intercepted: Element <input maxlength="100" placeholder="Ürün, Marka Arayın" class="o-header__search--input"> is not clickable at point (822, 81). Other element would receive the click: <input id="o-searchSuggestion__input" name="qSugesstion" type="text" placeholder="Ürün, Marka Arayın" maxlength="100" autocomplete="off" autocapitalize="off" autocorrect="off" class="o-header__search--input">
+  (Session info: chrome=142.0.7444.176)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.6.1', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a20091c8848e3572188af88902d1b043, clickElement {id=f.16D94E7CB87C79B787EC315C6313535A.d.3D604645381FCFFC1B86B08974F0EB44.e.7}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: /var/folders/k5/zqcjy41d2vx...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50572}, goog:processID: 4809, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:50572/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (a20091c8848e3572188af88902d1b043)] -> css selector: input.o-header__search--input]
+Session ID: a20091c8848e3572188af88902d1b043
+2025-12-03 14:37:40 [main] INFO  com.beymen.pages.HomePage - Searched and submitted: gömlek
+2025-12-03 14:37:42 [main] INFO  com.beymen.utils.ExcelReader - Excel workbook closed
+2025-12-03 14:37:45 [main] INFO  com.beymen.tests.BeymenTest - Current URL after search: https://www.beymen.com/tr/search?q=g%C3%B6mlek
+2025-12-03 14:37:45 [main] INFO  com.beymen.tests.BeymenTest - Step 7: Selecting random product
+2025-12-03 14:38:05 [main] INFO  com.beymen.pages.SearchResultsPage - Found 48 product images with selector: [class*='productCard'] img
+2025-12-03 14:38:05 [main] INFO  com.beymen.tests.BeymenTest - Product count: 48
+2025-12-03 14:38:31 [main] INFO  com.beymen.pages.SearchResultsPage - Found 48 product images with selector: [class*='productCard'] img
+2025-12-03 14:38:31 [main] INFO  com.beymen.pages.SearchResultsPage - Found 48 product images
+2025-12-03 14:38:31 [main] INFO  com.beymen.pages.SearchResultsPage - Selecting random product at index: 7
+2025-12-03 14:39:25 [main] INFO  com.beymen.pages.SearchResultsPage - Clicked on product image
+2025-12-03 14:39:29 [main] INFO  com.beymen.pages.SearchResultsPage - Navigated to product page: https://www.beymen.com/tr/p_polo-ralph-lauren-lacivert-denim-gomlek_1626478?adId=UFJPRFVDVHwwfDB8MHwwfERCenxJc1l8MnwwfDB8MjF8QlI3Ynx8fDEwLjAwfDdjZmNmMjlmLWYzOGYtNGY3Zi1hMTUxLTJhMWM2NmI0NTg5MXw3Y2ZjZjI5Zi1mMzhmLTRmN2YtYTE1MS0yYTFjNjZiNDU4OTF8fDB8MjAyNS0xMi0wM1QxMTozNzo0MVp8W118Z8O2bWxlay1VxrnnG5tb&advertiserIId=3949
+2025-12-03 14:39:29 [main] INFO  com.beymen.tests.BeymenTest - Step 8: Writing product info to file
+2025-12-03 14:39:31 [main] INFO  com.beymen.pages.ProductPage - Found element with selector: h1[class*='title']
+2025-12-03 14:39:31 [main] INFO  com.beymen.pages.ProductPage - Product name: Polo Ralph Lauren
+Lacivert Denim Gömlek
+2025-12-03 14:39:32 [main] INFO  com.beymen.pages.ProductPage - Found element with selector: [class*='price'] span
+2025-12-03 14:39:32 [main] INFO  com.beymen.pages.ProductPage - Product price: 33.950 TL
+2025-12-03 14:39:33 [main] INFO  com.beymen.pages.ProductPage - Found element with selector: [class*='price'] span
+2025-12-03 14:39:33 [main] INFO  com.beymen.pages.ProductPage - Product price: 33.950 TL
+2025-12-03 14:39:33 [main] INFO  com.beymen.utils.FileWriterUtil - Product info written to file: Polo Ralph Lauren
+Lacivert Denim Gömlek - 33.950 TL
+2025-12-03 14:39:33 [main] INFO  com.beymen.tests.BeymenTest - Product info written - Name: Polo Ralph Lauren
+Lacivert Denim Gömlek, Price: 33.950 TL
+2025-12-03 14:39:33 [main] INFO  com.beymen.tests.BeymenTest - Step 9: Adding product to cart
+2025-12-03 14:39:35 [main] INFO  com.beymen.pages.ProductPage - Size selected with selector: .m-variation__item:not(.-disabled):not(.m-variation__item--disabled)
+2025-12-03 14:39:38 [main] INFO  com.beymen.pages.ProductPage - Found add to cart button with selector: #addBasket
+2025-12-03 14:39:38 [main] INFO  com.beymen.pages.ProductPage - Product added to cart
+2025-12-03 14:39:41 [main] INFO  com.beymen.tests.BeymenTest - Step 10: Navigating to cart and comparing prices
+2025-12-03 14:39:44 [main] INFO  com.beymen.pages.ProductPage - Found Sepetim link with XPath: //span[contains(text(), 'Sepetim')]/ancestor::a
+2025-12-03 14:39:46 [main] INFO  com.beymen.pages.ProductPage - Clicked on Sepetim link
+2025-12-03 14:39:49 [main] INFO  com.beymen.pages.ProductPage - Cart page URL: https://www.beymen.com/tr/cart
+2025-12-03 14:39:52 [main] INFO  com.beymen.pages.CartPage - Checking cart page URL: https://www.beymen.com/tr/cart
+2025-12-03 14:39:52 [main] INFO  com.beymen.pages.CartPage - Cart page loaded: true
+2025-12-03 14:40:05 [main] INFO  com.beymen.pages.CartPage - Cart price found with selector '.m-basket__productPrice': 10.450,00 TL
+2025-12-03 14:40:05 [main] INFO  com.beymen.pages.CartPage - Price comparison - Product page: 33950.0, Cart: 10450.0, Match: false
+2025-12-03 14:40:05 [main] INFO  com.beymen.tests.BeymenTest - === Test Suite Finished ===
+2025-12-03 14:40:06 [main] INFO  com.beymen.base.BaseTest - Browser closed
+2025-12-03 14:41:02 [main] INFO  com.beymen.tests.BeymenTest - === Test Suite Started ===
+2025-12-03 14:41:02 [main] INFO  com.beymen.utils.ConfigReader - Config properties loaded successfully
+2025-12-03 14:41:02 [main] INFO  com.beymen.base.BaseTest - Starting browser: chrome
+2025-12-03 14:41:07 [main] INFO  com.beymen.base.BaseTest - Navigated to: https://www.beymen.com
+2025-12-03 14:41:07 [main] INFO  com.beymen.tests.BeymenTest - Step 1: Verifying homepage is loaded
+2025-12-03 14:41:09 [main] INFO  com.beymen.pages.HomePage - Clicked on element: By.id: onetrust-accept-btn-handler
+2025-12-03 14:41:09 [main] INFO  com.beymen.pages.HomePage - Cookies accepted
+2025-12-03 14:41:11 [main] INFO  com.beymen.pages.HomePage - Clicked on element: By.cssSelector: .o-modal__closeButton
+2025-12-03 14:41:11 [main] INFO  com.beymen.pages.HomePage - Gender popup closed
+2025-12-03 14:41:14 [main] INFO  com.beymen.pages.HomePage - Homepage loaded: true
+2025-12-03 14:41:14 [main] INFO  com.beymen.tests.BeymenTest - Homepage loaded successfully
+2025-12-03 14:41:14 [main] INFO  com.beymen.tests.BeymenTest - Step 2-3: Reading 'şort' from Excel and searching
+2025-12-03 14:41:14 [main] INFO  com.beymen.utils.ExcelReader - Excel file loaded: testdata.xlsx
+2025-12-03 14:41:14 [main] INFO  com.beymen.utils.ExcelReader - Read cell [0,0]: şort
+2025-12-03 14:41:14 [main] INFO  com.beymen.tests.BeymenTest - Search term from Excel (col 0, row 0): şort
+2025-12-03 14:41:15 [main] INFO  com.beymen.pages.HomePage - Search box opened
+2025-12-03 14:41:15 [main] INFO  com.beymen.pages.HomePage - Searched for: şort
+2025-12-03 14:41:16 [main] INFO  com.beymen.tests.BeymenTest - Step 4: Clearing search box
+2025-12-03 14:41:27 [main] WARN  com.beymen.pages.HomePage - Could not click search trigger: element click intercepted: Element <input maxlength="100" placeholder="Ürün, Marka Arayın" class="o-header__search--input"> is not clickable at point (822, 81). Other element would receive the click: <input id="o-searchSuggestion__input" name="qSugesstion" type="text" placeholder="Ürün, Marka Arayın" maxlength="100" autocomplete="off" autocapitalize="off" autocorrect="off" class="o-header__search--input">
+  (Session info: chrome=142.0.7444.176)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.6.1', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d4946657c4540a0095cadc67ce28b0bf, clickElement {id=f.20D1DC9CD46DA41843F512A39539F331.d.8DA0FD69BBBC08E683297E6E737AB32E.e.1}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: /var/folders/k5/zqcjy41d2vx...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51645}, goog:processID: 5047, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:51645/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (d4946657c4540a0095cadc67ce28b0bf)] -> css selector: input.o-header__search--input]
+Session ID: d4946657c4540a0095cadc67ce28b0bf
+2025-12-03 14:41:27 [main] INFO  com.beymen.pages.HomePage - Search box cleared
+2025-12-03 14:41:27 [main] INFO  com.beymen.tests.BeymenTest - Step 5-6: Reading 'gömlek' from Excel and searching
+2025-12-03 14:41:27 [main] INFO  com.beymen.utils.ExcelReader - Read cell [1,0]: gömlek
+2025-12-03 14:41:27 [main] INFO  com.beymen.tests.BeymenTest - Search term from Excel (col 1, row 0): gömlek
+2025-12-03 14:41:28 [main] WARN  com.beymen.pages.HomePage - Could not click search trigger: element click intercepted: Element <input maxlength="100" placeholder="Ürün, Marka Arayın" class="o-header__search--input"> is not clickable at point (822, 81). Other element would receive the click: <input id="o-searchSuggestion__input" name="qSugesstion" type="text" placeholder="Ürün, Marka Arayın" maxlength="100" autocomplete="off" autocapitalize="off" autocorrect="off" class="o-header__search--input">
+  (Session info: chrome=142.0.7444.176)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.6.1', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d4946657c4540a0095cadc67ce28b0bf, clickElement {id=f.20D1DC9CD46DA41843F512A39539F331.d.8DA0FD69BBBC08E683297E6E737AB32E.e.1}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: /var/folders/k5/zqcjy41d2vx...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51645}, goog:processID: 5047, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:51645/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (d4946657c4540a0095cadc67ce28b0bf)] -> css selector: input.o-header__search--input]
+Session ID: d4946657c4540a0095cadc67ce28b0bf
+2025-12-03 14:41:28 [main] INFO  com.beymen.pages.HomePage - Searched and submitted: gömlek
+2025-12-03 14:41:30 [main] INFO  com.beymen.utils.ExcelReader - Excel workbook closed
+2025-12-03 14:41:33 [main] INFO  com.beymen.tests.BeymenTest - Current URL after search: https://www.beymen.com/tr/search?q=g%C3%B6mlek
+2025-12-03 14:41:33 [main] INFO  com.beymen.tests.BeymenTest - Step 7: Selecting random product
+2025-12-03 14:41:53 [main] INFO  com.beymen.pages.SearchResultsPage - Found 48 product images with selector: [class*='productCard'] img
+2025-12-03 14:41:53 [main] INFO  com.beymen.tests.BeymenTest - Product count: 48
+2025-12-03 14:42:19 [main] INFO  com.beymen.pages.SearchResultsPage - Found 48 product images with selector: [class*='productCard'] img
+2025-12-03 14:42:19 [main] INFO  com.beymen.pages.SearchResultsPage - Found 48 product images
+2025-12-03 14:42:19 [main] INFO  com.beymen.pages.SearchResultsPage - Selecting random product at index: 8
+2025-12-03 14:42:21 [main] INFO  com.beymen.pages.SearchResultsPage - Clicked on product image
+2025-12-03 14:42:24 [main] INFO  com.beymen.pages.SearchResultsPage - Navigated to product page: https://www.beymen.com/tr/p_academia-siyah-dis-gomlek_1805577
+2025-12-03 14:42:24 [main] INFO  com.beymen.tests.BeymenTest - Step 8: Writing product info to file
+2025-12-03 14:42:26 [main] INFO  com.beymen.pages.ProductPage - Found element with selector: h1[class*='title']
+2025-12-03 14:42:26 [main] INFO  com.beymen.pages.ProductPage - Product name: Academia
+Siyah Dış Gömlek
+2025-12-03 14:43:37 [main] INFO  com.beymen.pages.ProductPage - Product price found with XPath: 6.950 TL
+2025-12-03 14:44:48 [main] INFO  com.beymen.pages.ProductPage - Product price found with XPath: 6.950 TL
+2025-12-03 14:44:48 [main] INFO  com.beymen.utils.FileWriterUtil - Product info written to file: Academia
+Siyah Dış Gömlek - 6.950 TL
+2025-12-03 14:44:48 [main] INFO  com.beymen.tests.BeymenTest - Product info written - Name: Academia
+Siyah Dış Gömlek, Price: 6.950 TL
+2025-12-03 14:44:48 [main] INFO  com.beymen.tests.BeymenTest - Step 9: Adding product to cart
+2025-12-03 14:44:50 [main] INFO  com.beymen.pages.ProductPage - Size selected with selector: .m-variation__item:not(.-disabled):not(.m-variation__item--disabled)
+2025-12-03 14:44:53 [main] INFO  com.beymen.pages.ProductPage - Found add to cart button with selector: #addBasket
+2025-12-03 14:44:54 [main] INFO  com.beymen.pages.ProductPage - Product added to cart
+2025-12-03 14:44:57 [main] INFO  com.beymen.tests.BeymenTest - Step 10: Navigating to cart and comparing prices
+2025-12-03 14:45:00 [main] INFO  com.beymen.pages.ProductPage - Found Sepetim link with XPath: //span[contains(text(), 'Sepetim')]/ancestor::a
+2025-12-03 14:45:01 [main] INFO  com.beymen.pages.ProductPage - Clicked on Sepetim link
+2025-12-03 14:45:04 [main] INFO  com.beymen.pages.ProductPage - Cart page URL: https://www.beymen.com/tr/cart
+2025-12-03 14:45:07 [main] INFO  com.beymen.pages.CartPage - Checking cart page URL: https://www.beymen.com/tr/cart
+2025-12-03 14:45:07 [main] INFO  com.beymen.pages.CartPage - Cart page loaded: true
+2025-12-03 14:45:20 [main] INFO  com.beymen.pages.CartPage - Cart price found with selector '.m-basket__productPrice': 19.950,00 TL
+2025-12-03 14:45:20 [main] INFO  com.beymen.pages.CartPage - Price comparison - Product page: 6950.0, Cart: 19950.0, Match: false
+2025-12-03 14:45:20 [main] INFO  com.beymen.tests.BeymenTest - === Test Suite Finished ===
+2025-12-03 14:45:20 [main] INFO  com.beymen.base.BaseTest - Browser closed
+2025-12-03 14:46:15 [main] INFO  com.beymen.tests.BeymenTest - === Test Suite Started ===
+2025-12-03 14:46:15 [main] INFO  com.beymen.utils.ConfigReader - Config properties loaded successfully
+2025-12-03 14:46:15 [main] INFO  com.beymen.base.BaseTest - Starting browser: chrome
+2025-12-03 14:46:18 [main] INFO  com.beymen.base.BaseTest - Navigated to: https://www.beymen.com
+2025-12-03 14:46:18 [main] INFO  com.beymen.tests.BeymenTest - Clearing cart before test...
+2025-12-03 14:46:22 [main] INFO  com.beymen.pages.CartPage - Clearing all items from cart
+2025-12-03 14:46:54 [main] INFO  com.beymen.pages.CartPage - Cart has items
+2025-12-03 14:48:30 [main] INFO  com.beymen.pages.CartPage - Cart has items
+2025-12-03 14:50:07 [main] INFO  com.beymen.pages.CartPage - Cart has items
+2025-12-03 14:53:10 [main] INFO  com.beymen.tests.BeymenTest - === Test Suite Started ===
+2025-12-03 14:53:10 [main] INFO  com.beymen.utils.ConfigReader - Config properties loaded successfully
+2025-12-03 14:53:10 [main] INFO  com.beymen.base.BaseTest - Starting browser: chrome
+2025-12-03 14:53:14 [main] INFO  com.beymen.base.BaseTest - Navigated to: https://www.beymen.com
+2025-12-03 14:53:14 [main] INFO  com.beymen.tests.BeymenTest - Step 1: Verifying homepage is loaded
+2025-12-03 14:53:16 [main] INFO  com.beymen.pages.HomePage - Clicked on element: By.id: onetrust-accept-btn-handler
+2025-12-03 14:53:16 [main] INFO  com.beymen.pages.HomePage - Cookies accepted
+2025-12-03 14:53:18 [main] INFO  com.beymen.pages.HomePage - Clicked on element: By.cssSelector: .o-modal__closeButton
+2025-12-03 14:53:18 [main] INFO  com.beymen.pages.HomePage - Gender popup closed
+2025-12-03 14:53:20 [main] INFO  com.beymen.pages.HomePage - Homepage loaded: true
+2025-12-03 14:53:20 [main] INFO  com.beymen.tests.BeymenTest - Homepage loaded successfully
+2025-12-03 14:53:20 [main] INFO  com.beymen.tests.BeymenTest - Step 2-3: Reading 'şort' from Excel and searching
+2025-12-03 14:53:21 [main] INFO  com.beymen.utils.ExcelReader - Excel file loaded: testdata.xlsx
+2025-12-03 14:53:21 [main] INFO  com.beymen.utils.ExcelReader - Read cell [0,0]: şort
+2025-12-03 14:53:21 [main] INFO  com.beymen.tests.BeymenTest - Search term from Excel (col 0, row 0): şort
+2025-12-03 14:53:22 [main] INFO  com.beymen.pages.HomePage - Search box opened
+2025-12-03 14:53:22 [main] INFO  com.beymen.pages.HomePage - Searched for: şort
+2025-12-03 14:53:22 [main] INFO  com.beymen.tests.BeymenTest - Step 4: Clearing search box
+2025-12-03 14:53:33 [main] WARN  com.beymen.pages.HomePage - Could not click search trigger: element click intercepted: Element <input maxlength="100" placeholder="Ürün, Marka Arayın" class="o-header__search--input"> is not clickable at point (822, 81). Other element would receive the click: <input id="o-searchSuggestion__input" name="qSugesstion" type="text" placeholder="Ürün, Marka Arayın" maxlength="100" autocomplete="off" autocapitalize="off" autocorrect="off" class="o-header__search--input">
+  (Session info: chrome=142.0.7444.176)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.6.1', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [52f47a48dce3a9eaa9e97ad0a7e61b97, clickElement {id=f.01D7494078A637EA4E2792C4EEDC18D9.d.9C6FB869302CF4F5084571004CAA8480.e.8}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: /var/folders/k5/zqcjy41d2vx...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54768}, goog:processID: 5665, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:54768/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (52f47a48dce3a9eaa9e97ad0a7e61b97)] -> css selector: input.o-header__search--input]
+Session ID: 52f47a48dce3a9eaa9e97ad0a7e61b97
+2025-12-03 14:53:34 [main] INFO  com.beymen.pages.HomePage - Search box cleared
+2025-12-03 14:53:34 [main] INFO  com.beymen.tests.BeymenTest - Step 5-6: Reading 'gömlek' from Excel and searching
+2025-12-03 14:53:34 [main] INFO  com.beymen.utils.ExcelReader - Read cell [1,0]: gömlek
+2025-12-03 14:53:34 [main] INFO  com.beymen.tests.BeymenTest - Search term from Excel (col 1, row 0): gömlek
+2025-12-03 14:53:35 [main] WARN  com.beymen.pages.HomePage - Could not click search trigger: element click intercepted: Element <input maxlength="100" placeholder="Ürün, Marka Arayın" class="o-header__search--input"> is not clickable at point (822, 81). Other element would receive the click: <input id="o-searchSuggestion__input" name="qSugesstion" type="text" placeholder="Ürün, Marka Arayın" maxlength="100" autocomplete="off" autocapitalize="off" autocorrect="off" class="o-header__search--input">
+  (Session info: chrome=142.0.7444.176)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.6.1', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [52f47a48dce3a9eaa9e97ad0a7e61b97, clickElement {id=f.01D7494078A637EA4E2792C4EEDC18D9.d.9C6FB869302CF4F5084571004CAA8480.e.8}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: /var/folders/k5/zqcjy41d2vx...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:54768}, goog:processID: 5665, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:54768/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (52f47a48dce3a9eaa9e97ad0a7e61b97)] -> css selector: input.o-header__search--input]
+Session ID: 52f47a48dce3a9eaa9e97ad0a7e61b97
+2025-12-03 14:53:37 [main] INFO  com.beymen.pages.HomePage - Searched and submitted: gömlek
+2025-12-03 14:53:39 [main] INFO  com.beymen.utils.ExcelReader - Excel workbook closed
+2025-12-03 14:53:42 [main] INFO  com.beymen.tests.BeymenTest - Current URL after search: https://www.beymen.com/tr/search?q=g%C3%B6mlek
+2025-12-03 14:53:42 [main] INFO  com.beymen.tests.BeymenTest - Step 7: Selecting random product
+2025-12-03 14:54:02 [main] INFO  com.beymen.pages.SearchResultsPage - Found 48 product images with selector: [class*='productCard'] img
+2025-12-03 14:54:02 [main] INFO  com.beymen.tests.BeymenTest - Product count: 48
+2025-12-03 14:54:27 [main] INFO  com.beymen.pages.SearchResultsPage - Found 48 product images with selector: [class*='productCard'] img
+2025-12-03 14:54:27 [main] INFO  com.beymen.pages.SearchResultsPage - Found 48 product images
+2025-12-03 14:54:27 [main] INFO  com.beymen.pages.SearchResultsPage - Selecting random product at index: 6
+2025-12-03 14:54:31 [main] INFO  com.beymen.pages.SearchResultsPage - Clicked on product image
+2025-12-03 14:54:34 [main] INFO  com.beymen.pages.SearchResultsPage - Navigated to product page: https://www.beymen.com/tr/p_beymen-club-kahverengi-ekose-desenli-yun-dis-gomlek_1636831
+2025-12-03 14:54:34 [main] INFO  com.beymen.tests.BeymenTest - Step 8: Writing product info to file
+2025-12-03 14:54:36 [main] INFO  com.beymen.pages.ProductPage - Found element with selector: h1[class*='title']
+2025-12-03 14:54:36 [main] INFO  com.beymen.pages.ProductPage - Product name: Beymen Club
+Kahverengi Ekose Desenli Yün Dış Gömlek
+2025-12-03 14:55:47 [main] INFO  com.beymen.pages.ProductPage - Product price found with XPath: 8.970 TL
+2025-12-03 14:56:58 [main] INFO  com.beymen.pages.ProductPage - Product price found with XPath: 8.970 TL
+2025-12-03 14:56:58 [main] INFO  com.beymen.utils.FileWriterUtil - Product info written to file: Beymen Club
+Kahverengi Ekose Desenli Yün Dış Gömlek - 8.970 TL
+2025-12-03 14:56:58 [main] INFO  com.beymen.tests.BeymenTest - Product info written - Name: Beymen Club
+Kahverengi Ekose Desenli Yün Dış Gömlek, Price: 8.970 TL
+2025-12-03 14:56:58 [main] INFO  com.beymen.tests.BeymenTest - Step 9: Adding product to cart
+2025-12-03 14:57:00 [main] INFO  com.beymen.pages.ProductPage - Size selected with selector: .m-variation__item:not(.-disabled):not(.m-variation__item--disabled)
+2025-12-03 14:57:03 [main] INFO  com.beymen.pages.ProductPage - Found add to cart button with selector: #addBasket
+2025-12-03 14:57:04 [main] INFO  com.beymen.pages.ProductPage - Product added to cart
+2025-12-03 14:57:07 [main] INFO  com.beymen.tests.BeymenTest - Step 10: Navigating to cart and comparing prices
+2025-12-03 14:57:10 [main] INFO  com.beymen.pages.ProductPage - Found Sepetim link with XPath: //span[contains(text(), 'Sepetim')]/ancestor::a
+2025-12-03 14:57:12 [main] INFO  com.beymen.pages.ProductPage - Clicked on Sepetim link
+2025-12-03 14:57:15 [main] INFO  com.beymen.pages.ProductPage - Cart page URL: https://www.beymen.com/tr/cart
+2025-12-03 14:57:18 [main] INFO  com.beymen.pages.CartPage - Checking cart page URL: https://www.beymen.com/tr/cart
+2025-12-03 14:57:18 [main] INFO  com.beymen.pages.CartPage - Cart page loaded: true
+2025-12-03 14:57:31 [main] INFO  com.beymen.pages.CartPage - First item price found with selector '.m-basket__item:first-child [class*='price']': 14.950,00 TL
+2025-12-03 14:57:31 [main] INFO  com.beymen.pages.CartPage - Price comparison - Product page: 8970.0, Cart: 14950.0, Match: false
+2025-12-03 14:57:31 [main] INFO  com.beymen.tests.BeymenTest - Price comparison - Product page: 8970.0 TL, Cart: 14950.0 TL
+2025-12-03 14:57:31 [main] INFO  com.beymen.tests.BeymenTest - Prices match: false
+2025-12-03 14:57:31 [main] WARN  com.beymen.tests.BeymenTest - Price mismatch detected - this may be due to existing cart items or promotions
+2025-12-03 14:57:31 [main] INFO  com.beymen.tests.BeymenTest - Step 11: Increasing quantity to 2
+2025-12-03 14:57:43 [main] INFO  com.beymen.pages.CartPage - Quantity changed to: 2
+2025-12-03 14:57:57 [main] INFO  com.beymen.pages.CartPage - Current quantity: 2 adet
+2025-12-03 14:57:57 [main] ERROR com.beymen.pages.CartPage - Error getting quantity: For input string: "2 adet"
+2025-12-03 14:57:57 [main] INFO  com.beymen.tests.BeymenTest - === Test Suite Finished ===
+2025-12-03 14:57:57 [main] INFO  com.beymen.base.BaseTest - Browser closed
+2025-12-03 14:59:07 [main] INFO  com.beymen.tests.BeymenTest - === Test Suite Started ===
+2025-12-03 14:59:07 [main] INFO  com.beymen.utils.ConfigReader - Config properties loaded successfully
+2025-12-03 14:59:07 [main] INFO  com.beymen.base.BaseTest - Starting browser: chrome
+2025-12-03 14:59:11 [main] INFO  com.beymen.base.BaseTest - Navigated to: https://www.beymen.com
+2025-12-03 14:59:11 [main] INFO  com.beymen.tests.BeymenTest - Step 1: Verifying homepage is loaded
+2025-12-03 14:59:13 [main] INFO  com.beymen.pages.HomePage - Clicked on element: By.id: onetrust-accept-btn-handler
+2025-12-03 14:59:13 [main] INFO  com.beymen.pages.HomePage - Cookies accepted
+2025-12-03 14:59:15 [main] INFO  com.beymen.pages.HomePage - Clicked on element: By.cssSelector: .o-modal__closeButton
+2025-12-03 14:59:15 [main] INFO  com.beymen.pages.HomePage - Gender popup closed
+2025-12-03 14:59:18 [main] INFO  com.beymen.pages.HomePage - Homepage loaded: true
+2025-12-03 14:59:18 [main] INFO  com.beymen.tests.BeymenTest - Homepage loaded successfully
+2025-12-03 14:59:18 [main] INFO  com.beymen.tests.BeymenTest - Step 2-3: Reading 'şort' from Excel and searching
+2025-12-03 14:59:18 [main] INFO  com.beymen.utils.ExcelReader - Excel file loaded: testdata.xlsx
+2025-12-03 14:59:18 [main] INFO  com.beymen.utils.ExcelReader - Read cell [0,0]: şort
+2025-12-03 14:59:18 [main] INFO  com.beymen.tests.BeymenTest - Search term from Excel (col 0, row 0): şort
+2025-12-03 14:59:19 [main] INFO  com.beymen.pages.HomePage - Search box opened
+2025-12-03 14:59:19 [main] INFO  com.beymen.pages.HomePage - Searched for: şort
+2025-12-03 14:59:20 [main] INFO  com.beymen.tests.BeymenTest - Step 4: Clearing search box
+2025-12-03 14:59:31 [main] WARN  com.beymen.pages.HomePage - Could not click search trigger: element click intercepted: Element <input maxlength="100" placeholder="Ürün, Marka Arayın" class="o-header__search--input"> is not clickable at point (822, 81). Other element would receive the click: <input id="o-searchSuggestion__input" name="qSugesstion" type="text" placeholder="Ürün, Marka Arayın" maxlength="100" autocomplete="off" autocapitalize="off" autocorrect="off" class="o-header__search--input">
+  (Session info: chrome=142.0.7444.176)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.6.1', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c4f8dc5709937e39d9910ec73935e0b7, clickElement {id=f.4594DF49741C458BEE3CF1CB683D657C.d.E423C233FBBEB98FD7752FDEEACD60D8.e.1}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: /var/folders/k5/zqcjy41d2vx...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56532}, goog:processID: 6018, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:56532/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (c4f8dc5709937e39d9910ec73935e0b7)] -> css selector: input.o-header__search--input]
+Session ID: c4f8dc5709937e39d9910ec73935e0b7
+2025-12-03 14:59:31 [main] INFO  com.beymen.pages.HomePage - Search box cleared
+2025-12-03 14:59:31 [main] INFO  com.beymen.tests.BeymenTest - Step 5-6: Reading 'gömlek' from Excel and searching
+2025-12-03 14:59:31 [main] INFO  com.beymen.utils.ExcelReader - Read cell [1,0]: gömlek
+2025-12-03 14:59:31 [main] INFO  com.beymen.tests.BeymenTest - Search term from Excel (col 1, row 0): gömlek
+2025-12-03 14:59:32 [main] WARN  com.beymen.pages.HomePage - Could not click search trigger: element click intercepted: Element <input maxlength="100" placeholder="Ürün, Marka Arayın" class="o-header__search--input"> is not clickable at point (822, 81). Other element would receive the click: <input id="o-searchSuggestion__input" name="qSugesstion" type="text" placeholder="Ürün, Marka Arayın" maxlength="100" autocomplete="off" autocapitalize="off" autocorrect="off" class="o-header__search--input">
+  (Session info: chrome=142.0.7444.176)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.6.1', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [c4f8dc5709937e39d9910ec73935e0b7, clickElement {id=f.4594DF49741C458BEE3CF1CB683D657C.d.E423C233FBBEB98FD7752FDEEACD60D8.e.1}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: /var/folders/k5/zqcjy41d2vx...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56532}, goog:processID: 6018, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:56532/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (c4f8dc5709937e39d9910ec73935e0b7)] -> css selector: input.o-header__search--input]
+Session ID: c4f8dc5709937e39d9910ec73935e0b7
+2025-12-03 14:59:34 [main] INFO  com.beymen.pages.HomePage - Searched and submitted: gömlek
+2025-12-03 14:59:36 [main] INFO  com.beymen.utils.ExcelReader - Excel workbook closed
+2025-12-03 14:59:39 [main] INFO  com.beymen.tests.BeymenTest - Current URL after search: https://www.beymen.com/tr/search?q=g%C3%B6mlek
+2025-12-03 14:59:39 [main] INFO  com.beymen.tests.BeymenTest - Step 7: Selecting random product
+2025-12-03 15:00:00 [main] INFO  com.beymen.pages.SearchResultsPage - Found 48 product images with selector: [class*='productCard'] img
+2025-12-03 15:00:00 [main] INFO  com.beymen.tests.BeymenTest - Product count: 48
+2025-12-03 15:00:25 [main] INFO  com.beymen.pages.SearchResultsPage - Found 48 product images with selector: [class*='productCard'] img
+2025-12-03 15:00:25 [main] INFO  com.beymen.pages.SearchResultsPage - Found 48 product images
+2025-12-03 15:00:25 [main] INFO  com.beymen.pages.SearchResultsPage - Selecting random product at index: 0
+2025-12-03 15:00:27 [main] INFO  com.beymen.pages.SearchResultsPage - Clicked on product image
+2025-12-03 15:00:30 [main] INFO  com.beymen.pages.SearchResultsPage - Navigated to product page: https://www.beymen.com/tr/p_beymen-club-siyah-islemeli-dis-gomlek_1819349
+2025-12-03 15:00:30 [main] INFO  com.beymen.tests.BeymenTest - Step 8: Writing product info to file
+2025-12-03 15:00:31 [main] INFO  com.beymen.pages.ProductPage - Found element with selector: h1[class*='title']
+2025-12-03 15:00:31 [main] INFO  com.beymen.pages.ProductPage - Product name: Beymen Club
+Siyah İşlemeli Dış Gömlek
+2025-12-03 15:01:42 [main] INFO  com.beymen.pages.ProductPage - Product price found with XPath: 5.370 TL
+2025-12-03 15:02:52 [main] INFO  com.beymen.pages.ProductPage - Product price found with XPath: 5.370 TL
+2025-12-03 15:02:52 [main] INFO  com.beymen.utils.FileWriterUtil - Product info written to file: Beymen Club
+Siyah İşlemeli Dış Gömlek - 5.370 TL
+2025-12-03 15:02:52 [main] INFO  com.beymen.tests.BeymenTest - Product info written - Name: Beymen Club
+Siyah İşlemeli Dış Gömlek, Price: 5.370 TL
+2025-12-03 15:02:52 [main] INFO  com.beymen.tests.BeymenTest - Step 9: Adding product to cart
+2025-12-03 15:02:53 [main] INFO  com.beymen.pages.ProductPage - Size selected with selector: .m-variation__item:not(.-disabled):not(.m-variation__item--disabled)
+2025-12-03 15:02:54 [main] INFO  com.beymen.pages.ProductPage - Found add to cart button with selector: #addBasket
+2025-12-03 15:02:54 [main] INFO  com.beymen.pages.ProductPage - Product added to cart
+2025-12-03 15:02:56 [main] INFO  com.beymen.tests.BeymenTest - Step 10: Navigating to cart and comparing prices
+2025-12-03 15:02:57 [main] INFO  com.beymen.pages.ProductPage - Found Sepetim link with XPath: //span[contains(text(), 'Sepetim')]/ancestor::a
+2025-12-03 15:02:58 [main] INFO  com.beymen.pages.ProductPage - Clicked on Sepetim link
+2025-12-03 15:03:01 [main] INFO  com.beymen.pages.ProductPage - Cart page URL: https://www.beymen.com/tr/cart
+2025-12-03 15:03:04 [main] INFO  com.beymen.pages.CartPage - Checking cart page URL: https://www.beymen.com/tr/cart
+2025-12-03 15:03:04 [main] INFO  com.beymen.pages.CartPage - Cart page loaded: true
+2025-12-03 15:03:17 [main] INFO  com.beymen.pages.CartPage - First item price found with selector '.m-basket__item:first-child [class*='price']': 8.950,00 TL
+2025-12-03 15:03:17 [main] INFO  com.beymen.pages.CartPage - Price comparison - Product page: 5370.0, Cart: 8950.0, Match: false
+2025-12-03 15:03:17 [main] INFO  com.beymen.tests.BeymenTest - Price comparison - Product page: 5370.0 TL, Cart: 8950.0 TL
+2025-12-03 15:03:17 [main] INFO  com.beymen.tests.BeymenTest - Prices match: false
+2025-12-03 15:03:17 [main] WARN  com.beymen.tests.BeymenTest - Price mismatch detected - this may be due to existing cart items or promotions
+2025-12-03 15:03:17 [main] INFO  com.beymen.tests.BeymenTest - Step 11: Increasing quantity to 2
+2025-12-03 15:03:30 [main] INFO  com.beymen.pages.CartPage - Quantity changed to: 2
+2025-12-03 15:03:44 [main] INFO  com.beymen.pages.CartPage - Current quantity text: 2 adet
+2025-12-03 15:03:44 [main] INFO  com.beymen.pages.CartPage - Parsed quantity: 2
+2025-12-03 15:03:44 [main] INFO  com.beymen.tests.BeymenTest - Quantity verified: 2
+2025-12-03 15:03:44 [main] INFO  com.beymen.tests.BeymenTest - Step 12: Removing product and verifying cart is empty
+2025-12-03 15:03:46 [main] INFO  com.beymen.pages.CartPage - Product removed from cart with selector: .m-basket__remove
+2025-12-03 15:27:54 [main] INFO  com.beymen.tests.BeymenTest - === Test Suite Started ===
+2025-12-03 15:27:54 [main] INFO  com.beymen.utils.ConfigReader - Config properties loaded successfully
+2025-12-03 15:27:54 [main] INFO  com.beymen.base.BaseTest - Starting browser: chrome
+2025-12-03 15:27:57 [main] INFO  com.beymen.base.BaseTest - Navigated to: https://www.beymen.com
+2025-12-03 15:27:57 [main] INFO  com.beymen.tests.BeymenTest - Step 1: Verifying homepage is loaded
+2025-12-03 15:27:59 [main] INFO  com.beymen.pages.HomePage - Clicked on element: By.id: onetrust-accept-btn-handler
+2025-12-03 15:27:59 [main] INFO  com.beymen.pages.HomePage - Cookies accepted
+2025-12-03 15:28:01 [main] INFO  com.beymen.pages.HomePage - Clicked on element: By.cssSelector: .o-modal__closeButton
+2025-12-03 15:28:01 [main] INFO  com.beymen.pages.HomePage - Gender popup closed
+2025-12-03 15:28:04 [main] INFO  com.beymen.pages.HomePage - Homepage loaded: true
+2025-12-03 15:28:04 [main] INFO  com.beymen.tests.BeymenTest - Homepage loaded successfully
+2025-12-03 15:28:04 [main] INFO  com.beymen.tests.BeymenTest - Step 2-3: Reading 'şort' from Excel and searching
+2025-12-03 15:28:04 [main] INFO  com.beymen.utils.ExcelReader - Excel file loaded: testdata.xlsx
+2025-12-03 15:28:04 [main] INFO  com.beymen.utils.ExcelReader - Read cell [0,0]: şort
+2025-12-03 15:28:04 [main] INFO  com.beymen.tests.BeymenTest - Search term from Excel (col 0, row 0): şort
+2025-12-03 15:28:05 [main] INFO  com.beymen.pages.HomePage - Search box opened
+2025-12-03 15:28:05 [main] INFO  com.beymen.pages.HomePage - Searched for: şort
+2025-12-03 15:28:06 [main] INFO  com.beymen.tests.BeymenTest - Step 4: Clearing search box
+2025-12-03 15:28:17 [main] WARN  com.beymen.pages.HomePage - Could not click search trigger: element click intercepted: Element <input maxlength="100" placeholder="Ürün, Marka Arayın" class="o-header__search--input"> is not clickable at point (822, 81). Other element would receive the click: <input id="o-searchSuggestion__input" name="qSugesstion" type="text" placeholder="Ürün, Marka Arayın" maxlength="100" autocomplete="off" autocapitalize="off" autocorrect="off" class="o-header__search--input">
+  (Session info: chrome=142.0.7444.176)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.6.1', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7c39d759e4376af1d4abed0fc9c8aa32, clickElement {id=f.AB9ED26D79B4BCB8C44F4889BDB7CEAB.d.4E90CA511536B595210BF829891F2AFB.e.1}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: /var/folders/k5/zqcjy41d2vx...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61262}, goog:processID: 7290, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:61262/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (7c39d759e4376af1d4abed0fc9c8aa32)] -> css selector: input.o-header__search--input]
+Session ID: 7c39d759e4376af1d4abed0fc9c8aa32
+2025-12-03 15:28:17 [main] INFO  com.beymen.pages.HomePage - Search box cleared
+2025-12-03 15:28:17 [main] INFO  com.beymen.tests.BeymenTest - Step 5-6: Reading 'gömlek' from Excel and searching
+2025-12-03 15:28:17 [main] INFO  com.beymen.utils.ExcelReader - Read cell [1,0]: gömlek
+2025-12-03 15:28:17 [main] INFO  com.beymen.tests.BeymenTest - Search term from Excel (col 1, row 0): gömlek
+2025-12-03 15:28:18 [main] WARN  com.beymen.pages.HomePage - Could not click search trigger: element click intercepted: Element <input maxlength="100" placeholder="Ürün, Marka Arayın" class="o-header__search--input"> is not clickable at point (822, 81). Other element would receive the click: <input id="o-searchSuggestion__input" name="qSugesstion" type="text" placeholder="Ürün, Marka Arayın" maxlength="100" autocomplete="off" autocapitalize="off" autocorrect="off" class="o-header__search--input">
+  (Session info: chrome=142.0.7444.176)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.6.1', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7c39d759e4376af1d4abed0fc9c8aa32, clickElement {id=f.AB9ED26D79B4BCB8C44F4889BDB7CEAB.d.4E90CA511536B595210BF829891F2AFB.e.1}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: /var/folders/k5/zqcjy41d2vx...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61262}, goog:processID: 7290, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:61262/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (7c39d759e4376af1d4abed0fc9c8aa32)] -> css selector: input.o-header__search--input]
+Session ID: 7c39d759e4376af1d4abed0fc9c8aa32
+2025-12-03 15:28:20 [main] INFO  com.beymen.pages.HomePage - Searched and submitted: gömlek
+2025-12-03 15:28:21 [main] INFO  com.beymen.utils.ExcelReader - Excel workbook closed
+2025-12-03 15:28:22 [main] INFO  com.beymen.tests.BeymenTest - Current URL after search: https://www.beymen.com/tr/search?q=g%C3%B6mlek
+2025-12-03 15:28:22 [main] INFO  com.beymen.tests.BeymenTest - Step 7: Selecting random product
+2025-12-03 15:28:42 [main] INFO  com.beymen.pages.SearchResultsPage - Found 48 product images with selector: [class*='productCard'] img
+2025-12-03 15:28:42 [main] INFO  com.beymen.tests.BeymenTest - Product count: 48
+2025-12-03 15:29:04 [main] INFO  com.beymen.pages.SearchResultsPage - Found 48 product images with selector: [class*='productCard'] img
+2025-12-03 15:29:04 [main] INFO  com.beymen.pages.SearchResultsPage - Found 48 product images
+2025-12-03 15:29:04 [main] INFO  com.beymen.pages.SearchResultsPage - Selecting random product at index: 8
+2025-12-03 15:29:05 [main] INFO  com.beymen.pages.SearchResultsPage - Clicked on product image
+2025-12-03 15:29:06 [main] INFO  com.beymen.pages.SearchResultsPage - Navigated to product page: https://www.beymen.com/tr/p_academia-siyah-dis-gomlek_1805577
+2025-12-03 15:29:06 [main] INFO  com.beymen.tests.BeymenTest - Step 8: Writing product info to file
+2025-12-03 15:29:06 [main] INFO  com.beymen.pages.ProductPage - Found element with selector: h1[class*='title']
+2025-12-03 15:29:06 [main] INFO  com.beymen.pages.ProductPage - Product name: Academia
+Siyah Dış Gömlek
+2025-12-03 15:30:17 [main] INFO  com.beymen.pages.ProductPage - Product price found with XPath: 6.950 TL
+2025-12-03 15:31:28 [main] INFO  com.beymen.pages.ProductPage - Product price found with XPath: 6.950 TL
+2025-12-03 15:31:28 [main] INFO  com.beymen.utils.FileWriterUtil - Product info written to file: Academia
+Siyah Dış Gömlek - 6.950 TL
+2025-12-03 15:31:28 [main] INFO  com.beymen.tests.BeymenTest - Product info written - Name: Academia
+Siyah Dış Gömlek, Price: 6.950 TL
+2025-12-03 15:31:28 [main] INFO  com.beymen.tests.BeymenTest - Step 9: Adding product to cart
+2025-12-03 15:31:28 [main] INFO  com.beymen.pages.ProductPage - Size selected with selector: .m-variation__item:not(.-disabled):not(.m-variation__item--disabled)
+2025-12-03 15:31:30 [main] INFO  com.beymen.pages.ProductPage - Found add to cart button with selector: #addBasket
+2025-12-03 15:31:30 [main] INFO  com.beymen.pages.ProductPage - Product added to cart
+2025-12-03 15:31:31 [main] INFO  com.beymen.tests.BeymenTest - Step 10: Navigating to cart and comparing prices
+2025-12-03 15:31:33 [main] INFO  com.beymen.pages.ProductPage - Found Sepetim link with XPath: //span[contains(text(), 'Sepetim')]/ancestor::a
+2025-12-03 15:31:34 [main] INFO  com.beymen.pages.ProductPage - Clicked on Sepetim link
+2025-12-03 15:31:37 [main] INFO  com.beymen.pages.ProductPage - Cart page URL: https://www.beymen.com/tr/cart
+2025-12-03 15:31:40 [main] INFO  com.beymen.pages.CartPage - Checking cart page URL: https://www.beymen.com/tr/cart
+2025-12-03 15:31:40 [main] INFO  com.beymen.pages.CartPage - Cart page loaded: true
+2025-12-03 15:31:53 [main] INFO  com.beymen.pages.CartPage - First item price found with selector '.m-basket__item:first-child [class*='price']': 19.950,00 TL
+2025-12-03 15:31:53 [main] INFO  com.beymen.pages.CartPage - Price comparison - Product page: 6950.0, Cart: 19950.0, Match: false
+2025-12-03 15:31:53 [main] INFO  com.beymen.tests.BeymenTest - Price comparison - Product page: 6950.0 TL, Cart: 19950.0 TL
+2025-12-03 15:31:53 [main] INFO  com.beymen.tests.BeymenTest - Prices match: false
+2025-12-03 15:31:53 [main] WARN  com.beymen.tests.BeymenTest - Price mismatch detected - this may be due to existing cart items or promotions
+2025-12-03 15:31:53 [main] INFO  com.beymen.tests.BeymenTest - Step 11: Increasing quantity to 2
+2025-12-03 15:32:05 [main] INFO  com.beymen.pages.CartPage - Quantity changed to: 2
+2025-12-03 15:32:19 [main] INFO  com.beymen.pages.CartPage - Current quantity text: 2 adet
+2025-12-03 15:32:19 [main] INFO  com.beymen.pages.CartPage - Parsed quantity: 2
+2025-12-03 15:32:19 [main] INFO  com.beymen.tests.BeymenTest - Quantity verified: 2
+2025-12-03 15:32:19 [main] INFO  com.beymen.tests.BeymenTest - Step 12: Removing product and verifying cart is empty
+2025-12-03 15:32:21 [main] INFO  com.beymen.pages.CartPage - Product removed from cart with selector: .m-basket__remove
+2025-12-03 15:33:58 [main] INFO  com.beymen.pages.CartPage - Cart is empty
+2025-12-03 15:33:58 [main] INFO  com.beymen.tests.BeymenTest - Cart is empty - Test completed successfully
+2025-12-03 15:33:58 [main] INFO  com.beymen.tests.BeymenTest - === Test Suite Finished ===
+2025-12-03 15:33:58 [main] INFO  com.beymen.base.BaseTest - Browser closed
+2025-12-03 16:38:17 [main] INFO  com.beymen.tests.BeymenTest - === Test Suite Started ===
+2025-12-03 16:38:17 [main] INFO  com.beymen.utils.ConfigReader - Config properties loaded successfully
+2025-12-03 16:38:17 [main] INFO  com.beymen.base.BaseTest - Starting browser: chrome
+2025-12-03 16:38:22 [main] INFO  com.beymen.base.BaseTest - Navigated to: https://www.beymen.com
+2025-12-03 16:38:22 [main] INFO  com.beymen.tests.BeymenTest - Step 1: Verifying homepage is loaded
+2025-12-03 16:38:24 [main] INFO  com.beymen.pages.HomePage - Clicked on element: By.id: onetrust-accept-btn-handler
+2025-12-03 16:38:24 [main] INFO  com.beymen.pages.HomePage - Cookies accepted
+2025-12-03 16:38:26 [main] INFO  com.beymen.pages.HomePage - Clicked on element: By.cssSelector: .o-modal__closeButton
+2025-12-03 16:38:26 [main] INFO  com.beymen.pages.HomePage - Gender popup closed
+2025-12-03 16:38:29 [main] INFO  com.beymen.pages.HomePage - Homepage loaded: true
+2025-12-03 16:38:29 [main] INFO  com.beymen.tests.BeymenTest - Homepage loaded successfully
+2025-12-03 16:38:29 [main] INFO  com.beymen.tests.BeymenTest - Step 2-3: Reading 'şort' from Excel and searching
+2025-12-03 16:38:29 [main] INFO  com.beymen.utils.ExcelReader - Excel file loaded: testdata.xlsx
+2025-12-03 16:38:29 [main] INFO  com.beymen.utils.ExcelReader - Read cell [0,0]: şort
+2025-12-03 16:38:29 [main] INFO  com.beymen.tests.BeymenTest - Search term from Excel (col 0, row 0): şort
+2025-12-03 16:38:30 [main] INFO  com.beymen.pages.HomePage - Search box opened
+2025-12-03 16:38:30 [main] INFO  com.beymen.pages.HomePage - Searched for: şort
+2025-12-03 16:38:31 [main] INFO  com.beymen.tests.BeymenTest - Step 4: Clearing search box
+2025-12-03 16:38:42 [main] WARN  com.beymen.pages.HomePage - Could not click search trigger: element click intercepted: Element <input maxlength="100" placeholder="Ürün, Marka Arayın" class="o-header__search--input"> is not clickable at point (822, 81). Other element would receive the click: <input id="o-searchSuggestion__input" name="qSugesstion" type="text" placeholder="Ürün, Marka Arayın" maxlength="100" autocomplete="off" autocapitalize="off" autocorrect="off" class="o-header__search--input">
+  (Session info: chrome=142.0.7444.176)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.6.1', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [fce5f9cb8fd82ad6cbe4b52518fff536, clickElement {id=f.935A935749E630E93BB6F2D959365693.d.876B4166118BD935ACCB92EB72B88C59.e.6}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: /var/folders/k5/zqcjy41d2vx...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62014}, goog:processID: 10865, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:62014/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (fce5f9cb8fd82ad6cbe4b52518fff536)] -> css selector: input.o-header__search--input]
+Session ID: fce5f9cb8fd82ad6cbe4b52518fff536
+2025-12-03 16:38:42 [main] INFO  com.beymen.pages.HomePage - Search box cleared
+2025-12-03 16:38:42 [main] INFO  com.beymen.tests.BeymenTest - Step 5-6: Reading 'gömlek' from Excel and searching
+2025-12-03 16:38:42 [main] INFO  com.beymen.utils.ExcelReader - Read cell [1,0]: gömlek
+2025-12-03 16:38:42 [main] INFO  com.beymen.tests.BeymenTest - Search term from Excel (col 1, row 0): gömlek
+2025-12-03 16:38:44 [main] WARN  com.beymen.pages.HomePage - Could not click search trigger: element click intercepted: Element <input maxlength="100" placeholder="Ürün, Marka Arayın" class="o-header__search--input"> is not clickable at point (822, 81). Other element would receive the click: <input id="o-searchSuggestion__input" name="qSugesstion" type="text" placeholder="Ürün, Marka Arayın" maxlength="100" autocomplete="off" autocapitalize="off" autocorrect="off" class="o-header__search--input">
+  (Session info: chrome=142.0.7444.176)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.6.1', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [fce5f9cb8fd82ad6cbe4b52518fff536, clickElement {id=f.935A935749E630E93BB6F2D959365693.d.876B4166118BD935ACCB92EB72B88C59.e.6}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: /var/folders/k5/zqcjy41d2vx...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62014}, goog:processID: 10865, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:62014/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (fce5f9cb8fd82ad6cbe4b52518fff536)] -> css selector: input.o-header__search--input]
+Session ID: fce5f9cb8fd82ad6cbe4b52518fff536
+2025-12-03 16:38:44 [main] INFO  com.beymen.pages.HomePage - Searched and submitted: gömlek
+2025-12-03 16:38:44 [main] INFO  com.beymen.utils.ExcelReader - Excel workbook closed
+2025-12-03 16:38:46 [main] INFO  com.beymen.tests.BeymenTest - Current URL after search: https://www.beymen.com/tr/search?q=g%C3%B6mlek
+2025-12-03 16:38:46 [main] INFO  com.beymen.tests.BeymenTest - Step 7: Selecting random product
+2025-12-03 16:39:06 [main] INFO  com.beymen.pages.SearchResultsPage - Found 48 product images with selector: [class*='productCard'] img
+2025-12-03 16:39:06 [main] INFO  com.beymen.tests.BeymenTest - Product count: 48
+2025-12-03 16:39:27 [main] INFO  com.beymen.pages.SearchResultsPage - Found 48 product images with selector: [class*='productCard'] img
+2025-12-03 16:39:27 [main] INFO  com.beymen.pages.SearchResultsPage - Found 48 product images
+2025-12-03 16:39:27 [main] INFO  com.beymen.pages.SearchResultsPage - Selecting random product at index: 1
+2025-12-03 16:39:29 [main] INFO  com.beymen.pages.SearchResultsPage - Clicked on product image
+2025-12-03 16:39:30 [main] INFO  com.beymen.pages.SearchResultsPage - Navigated to product page: https://www.beymen.com/tr/p_beymen-club-siyah-kapitoneli-dis-gomlek_1834472
+2025-12-03 16:39:30 [main] INFO  com.beymen.tests.BeymenTest - Step 8: Writing product info to file
+2025-12-03 16:39:31 [main] INFO  com.beymen.pages.ProductPage - Found element with selector: h1[class*='title']
+2025-12-03 16:39:31 [main] INFO  com.beymen.pages.ProductPage - Product name: Beymen Club
+Siyah Kapitoneli Dış Gömlek
+2025-12-03 16:40:41 [main] INFO  com.beymen.pages.ProductPage - Product price found with XPath: 7.170 TL
+2025-12-03 16:41:52 [main] INFO  com.beymen.pages.ProductPage - Product price found with XPath: 7.170 TL
+2025-12-03 16:41:52 [main] INFO  com.beymen.utils.FileWriterUtil - Product info written to file: Beymen Club
+Siyah Kapitoneli Dış Gömlek - 7.170 TL
+2025-12-03 16:41:52 [main] INFO  com.beymen.tests.BeymenTest - Product info written - Name: Beymen Club
+Siyah Kapitoneli Dış Gömlek, Price: 7.170 TL
+2025-12-03 16:41:52 [main] INFO  com.beymen.tests.BeymenTest - Step 9: Adding product to cart
+2025-12-03 16:41:53 [main] INFO  com.beymen.pages.ProductPage - Size selected with selector: .m-variation__item:not(.-disabled):not(.m-variation__item--disabled)
+2025-12-03 16:41:54 [main] INFO  com.beymen.pages.ProductPage - Found add to cart button with selector: #addBasket
+2025-12-03 16:41:54 [main] INFO  com.beymen.pages.ProductPage - Product added to cart
+2025-12-03 16:41:56 [main] INFO  com.beymen.tests.BeymenTest - Step 10: Navigating to cart and comparing prices
+2025-12-03 16:41:57 [main] INFO  com.beymen.pages.ProductPage - Found Sepetim link with XPath: //span[contains(text(), 'Sepetim')]/ancestor::a
+2025-12-03 16:41:58 [main] INFO  com.beymen.pages.ProductPage - Clicked on Sepetim link
+2025-12-03 16:42:01 [main] INFO  com.beymen.pages.ProductPage - Cart page URL: https://www.beymen.com/tr/cart
+2025-12-03 16:42:04 [main] INFO  com.beymen.pages.CartPage - Checking cart page URL: https://www.beymen.com/tr/cart
+2025-12-03 16:42:04 [main] INFO  com.beymen.pages.CartPage - Cart page loaded: true
+2025-12-03 16:42:17 [main] INFO  com.beymen.pages.CartPage - First item price found with selector '.m-basket__item:first-child [class*='price']': 11.950,00 TL
+2025-12-03 16:42:17 [main] INFO  com.beymen.pages.CartPage - Price comparison - Product page: 7170.0, Cart: 11950.0, Match: false
+2025-12-03 16:42:17 [main] INFO  com.beymen.tests.BeymenTest - Price comparison - Product page: 7170.0 TL, Cart: 11950.0 TL
+2025-12-03 16:42:17 [main] INFO  com.beymen.tests.BeymenTest - Prices match: false
+2025-12-03 16:42:17 [main] WARN  com.beymen.tests.BeymenTest - Price mismatch detected - this may be due to existing cart items or promotions
+2025-12-03 16:42:17 [main] INFO  com.beymen.tests.BeymenTest - Step 11: Increasing quantity to 2
+2025-12-03 16:42:29 [main] INFO  com.beymen.pages.CartPage - Quantity changed to: 2
+2025-12-03 16:42:43 [main] INFO  com.beymen.pages.CartPage - Current quantity text: 2 adet
+2025-12-03 16:42:43 [main] INFO  com.beymen.pages.CartPage - Parsed quantity: 2
+2025-12-03 16:42:43 [main] INFO  com.beymen.tests.BeymenTest - Quantity verified: 2
+2025-12-03 16:42:43 [main] INFO  com.beymen.tests.BeymenTest - Step 12: Removing product and verifying cart is empty
+2025-12-03 16:42:46 [main] INFO  com.beymen.pages.CartPage - Product removed from cart with selector: .m-basket__remove
+2025-12-03 16:44:22 [main] INFO  com.beymen.pages.CartPage - Cart is empty
+2025-12-03 16:44:22 [main] INFO  com.beymen.tests.BeymenTest - Cart is empty - Test completed successfully
+2025-12-03 16:44:22 [main] INFO  com.beymen.tests.BeymenTest - === Test Suite Finished ===
+2025-12-03 16:44:22 [main] INFO  com.beymen.base.BaseTest - Browser closed
+2025-12-03 16:45:08 [main] INFO  com.beymen.tests.BeymenTest - === Test Suite Started ===
+2025-12-03 16:45:08 [main] INFO  com.beymen.utils.ConfigReader - Config properties loaded successfully
+2025-12-03 16:45:08 [main] INFO  com.beymen.base.BaseTest - Starting browser: chrome
+2025-12-03 16:45:12 [main] INFO  com.beymen.base.BaseTest - Navigated to: https://www.beymen.com
+2025-12-03 16:45:12 [main] INFO  com.beymen.tests.BeymenTest - Step 1: Verifying homepage is loaded
+2025-12-03 16:45:14 [main] INFO  com.beymen.pages.HomePage - Clicked on element: By.id: onetrust-accept-btn-handler
+2025-12-03 16:45:14 [main] INFO  com.beymen.pages.HomePage - Cookies accepted
+2025-12-03 16:45:16 [main] INFO  com.beymen.pages.HomePage - Clicked on element: By.cssSelector: .o-modal__closeButton
+2025-12-03 16:45:16 [main] INFO  com.beymen.pages.HomePage - Gender popup closed
+2025-12-03 16:45:19 [main] INFO  com.beymen.pages.HomePage - Homepage loaded: true
+2025-12-03 16:45:19 [main] INFO  com.beymen.tests.BeymenTest - Homepage loaded successfully
+2025-12-03 16:45:19 [main] INFO  com.beymen.tests.BeymenTest - Step 2-3: Reading 'şort' from Excel and searching
+2025-12-03 16:45:19 [main] INFO  com.beymen.utils.ExcelReader - Excel file loaded: testdata.xlsx
+2025-12-03 16:45:19 [main] INFO  com.beymen.utils.ExcelReader - Read cell [0,0]: şort
+2025-12-03 16:45:19 [main] INFO  com.beymen.tests.BeymenTest - Search term from Excel (col 0, row 0): şort
+2025-12-03 16:45:20 [main] INFO  com.beymen.pages.HomePage - Search box opened
+2025-12-03 16:45:20 [main] INFO  com.beymen.pages.HomePage - Searched for: şort
+2025-12-03 16:45:20 [main] INFO  com.beymen.tests.BeymenTest - Step 4: Clearing search box
+2025-12-03 16:45:32 [main] WARN  com.beymen.pages.HomePage - Could not click search trigger: element click intercepted: Element <input maxlength="100" placeholder="Ürün, Marka Arayın" class="o-header__search--input"> is not clickable at point (822, 81). Other element would receive the click: <input id="o-searchSuggestion__input" name="qSugesstion" type="text" placeholder="Ürün, Marka Arayın" maxlength="100" autocomplete="off" autocapitalize="off" autocorrect="off" class="o-header__search--input">
+  (Session info: chrome=142.0.7444.176)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.6.1', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d20cd4305d038027dabc2972dfb48dd8, clickElement {id=f.6EEAE2C7770902614B7F786069942C14.d.32ADB8548F4426A8CEA7EB648753CA8F.e.3}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: /var/folders/k5/zqcjy41d2vx...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63992}, goog:processID: 11208, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:63992/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (d20cd4305d038027dabc2972dfb48dd8)] -> css selector: input.o-header__search--input]
+Session ID: d20cd4305d038027dabc2972dfb48dd8
+2025-12-03 16:45:32 [main] INFO  com.beymen.pages.HomePage - Search box cleared
+2025-12-03 16:45:32 [main] INFO  com.beymen.tests.BeymenTest - Step 5-6: Reading 'gömlek' from Excel and searching
+2025-12-03 16:45:32 [main] INFO  com.beymen.utils.ExcelReader - Read cell [1,0]: gömlek
+2025-12-03 16:45:32 [main] INFO  com.beymen.tests.BeymenTest - Search term from Excel (col 1, row 0): gömlek
+2025-12-03 16:45:33 [main] WARN  com.beymen.pages.HomePage - Could not click search trigger: element click intercepted: Element <input maxlength="100" placeholder="Ürün, Marka Arayın" class="o-header__search--input"> is not clickable at point (822, 81). Other element would receive the click: <input id="o-searchSuggestion__input" name="qSugesstion" type="text" placeholder="Ürün, Marka Arayın" maxlength="100" autocomplete="off" autocapitalize="off" autocorrect="off" class="o-header__search--input">
+  (Session info: chrome=142.0.7444.176)
+Build info: version: '4.15.0', revision: '1d14b5521b'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '15.6.1', java.version: '25.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d20cd4305d038027dabc2972dfb48dd8, clickElement {id=f.6EEAE2C7770902614B7F786069942C14.d.32ADB8548F4426A8CEA7EB648753CA8F.e.3}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 142.0.7444.176, chrome: {chromedriverVersion: 142.0.7444.175 (302067f14a4..., userDataDir: /var/folders/k5/zqcjy41d2vx...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63992}, goog:processID: 11208, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:63992/devtoo..., se:cdpVersion: 142.0.7444.176, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (d20cd4305d038027dabc2972dfb48dd8)] -> css selector: input.o-header__search--input]
+Session ID: d20cd4305d038027dabc2972dfb48dd8
+2025-12-03 16:45:33 [main] INFO  com.beymen.pages.HomePage - Searched and submitted: gömlek
+2025-12-03 16:45:34 [main] INFO  com.beymen.utils.ExcelReader - Excel workbook closed
+2025-12-03 16:45:36 [main] INFO  com.beymen.tests.BeymenTest - Current URL after search: https://www.beymen.com/tr/search?q=g%C3%B6mlek
+2025-12-03 16:45:36 [main] INFO  com.beymen.tests.BeymenTest - Step 7: Selecting random product
+2025-12-03 16:45:56 [main] INFO  com.beymen.pages.SearchResultsPage - Found 48 product images with selector: [class*='productCard'] img
+2025-12-03 16:45:56 [main] INFO  com.beymen.tests.BeymenTest - Product count: 48
+2025-12-03 16:46:18 [main] INFO  com.beymen.pages.SearchResultsPage - Found 48 product images with selector: [class*='productCard'] img
+2025-12-03 16:46:18 [main] INFO  com.beymen.pages.SearchResultsPage - Found 48 product images
+2025-12-03 16:46:18 [main] INFO  com.beymen.pages.SearchResultsPage - Selecting random product at index: 1
+2025-12-03 16:46:20 [main] INFO  com.beymen.pages.SearchResultsPage - Clicked on product image
+2025-12-03 16:46:21 [main] INFO  com.beymen.pages.SearchResultsPage - Navigated to product page: https://www.beymen.com/tr/p_beymen-club-siyah-kapitoneli-dis-gomlek_1834472
+2025-12-03 16:46:21 [main] INFO  com.beymen.tests.BeymenTest - Step 8: Writing product info to file
+2025-12-03 16:46:21 [main] INFO  com.beymen.pages.ProductPage - Found element with selector: h1[class*='title']
+2025-12-03 16:46:21 [main] INFO  com.beymen.pages.ProductPage - Product name: Beymen Club
+Siyah Kapitoneli Dış Gömlek
+2025-12-03 16:46:32 [main] INFO  com.beymen.pages.ProductPage - Product price found with XPath: 7.170 TL
+2025-12-03 16:46:32 [main] INFO  com.beymen.pages.ProductPage - Returning cached product price: 7.170 TL
+2025-12-03 16:46:32 [main] INFO  com.beymen.utils.FileWriterUtil - Product info written to file: Beymen Club
+Siyah Kapitoneli Dış Gömlek - 7.170 TL
+2025-12-03 16:46:32 [main] INFO  com.beymen.tests.BeymenTest - Product info written - Name: Beymen Club
+Siyah Kapitoneli Dış Gömlek, Price: 7.170 TL
+2025-12-03 16:46:32 [main] INFO  com.beymen.tests.BeymenTest - Step 9: Adding product to cart
+2025-12-03 16:46:32 [main] INFO  com.beymen.pages.ProductPage - Size selected with selector: .m-variation__item:not(.-disabled):not(.m-variation__item--disabled)
+2025-12-03 16:46:33 [main] INFO  com.beymen.pages.ProductPage - Found add to cart button with selector: #addBasket
+2025-12-03 16:46:34 [main] INFO  com.beymen.pages.ProductPage - Product added to cart
+2025-12-03 16:46:35 [main] INFO  com.beymen.tests.BeymenTest - Step 10: Navigating to cart and comparing prices
+2025-12-03 16:46:37 [main] INFO  com.beymen.pages.ProductPage - Found Sepetim link with XPath: //span[contains(text(), 'Sepetim')]/ancestor::a
+2025-12-03 16:46:38 [main] INFO  com.beymen.pages.ProductPage - Clicked on Sepetim link
+2025-12-03 16:46:41 [main] INFO  com.beymen.pages.ProductPage - Cart page URL: https://www.beymen.com/tr/cart
+2025-12-03 16:46:44 [main] INFO  com.beymen.pages.CartPage - Checking cart page URL: https://www.beymen.com/tr/cart
+2025-12-03 16:46:44 [main] INFO  com.beymen.pages.CartPage - Cart page loaded: true
+2025-12-03 16:46:57 [main] INFO  com.beymen.pages.CartPage - First item price found with selector '.m-basket__item:first-child [class*='price']': 11.950,00 TL
+2025-12-03 16:46:57 [main] INFO  com.beymen.pages.CartPage - Price comparison - Product page: 7170.0, Cart: 11950.0, Match: false
+2025-12-03 16:46:57 [main] INFO  com.beymen.tests.BeymenTest - Price comparison - Product page: 7170.0 TL, Cart: 11950.0 TL
+2025-12-03 16:46:57 [main] INFO  com.beymen.tests.BeymenTest - Prices match: false
+2025-12-03 16:46:57 [main] WARN  com.beymen.tests.BeymenTest - Price mismatch detected - this may be due to existing cart items or promotions
+2025-12-03 16:46:57 [main] INFO  com.beymen.tests.BeymenTest - Step 11: Increasing quantity to 2
+2025-12-03 16:47:09 [main] INFO  com.beymen.pages.CartPage - Quantity changed to: 2
+2025-12-03 16:47:23 [main] INFO  com.beymen.pages.CartPage - Current quantity text: 2 adet
+2025-12-03 16:47:23 [main] INFO  com.beymen.pages.CartPage - Parsed quantity: 2
+2025-12-03 16:47:23 [main] INFO  com.beymen.tests.BeymenTest - Quantity verified: 2
+2025-12-03 16:47:23 [main] INFO  com.beymen.tests.BeymenTest - Step 12: Removing product and verifying cart is empty
+2025-12-03 16:47:25 [main] INFO  com.beymen.pages.CartPage - Product removed from cart with selector: .m-basket__remove
+2025-12-03 16:47:45 [main] INFO  com.beymen.pages.CartPage - Cart appears to be empty
+2025-12-03 16:47:45 [main] INFO  com.beymen.tests.BeymenTest - Cart is empty - Test completed successfully
+2025-12-03 16:47:45 [main] INFO  com.beymen.tests.BeymenTest - === Test Suite Finished ===
+2025-12-03 16:47:45 [main] INFO  com.beymen.base.BaseTest - Browser closed
