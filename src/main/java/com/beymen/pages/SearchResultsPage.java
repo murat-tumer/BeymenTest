@@ -71,7 +71,6 @@ public class SearchResultsPage extends BasePage {
             waitForPageLoad();
             sleep(1000);
 
-            // Scroll to trigger lazy loading
             ((JavascriptExecutor) driver).executeScript("window.scrollBy(0, 300)");
             sleep(500);
 
@@ -79,7 +78,6 @@ public class SearchResultsPage extends BasePage {
             boolean hasProducts = !products.isEmpty();
             logger.info("Products found: " + products.size());
 
-            // Log current URL for debugging
             logger.info("Current URL: " + driver.getCurrentUrl());
 
             return hasProducts;
@@ -97,7 +95,6 @@ public class SearchResultsPage extends BasePage {
         waitForPageLoad();
         sleep(1000);
 
-        // Scroll down to load products
         ((JavascriptExecutor) driver).executeScript("window.scrollBy(0, 500)");
         sleep(500);
 
@@ -111,7 +108,6 @@ public class SearchResultsPage extends BasePage {
 
         logger.info("Found " + productImages.size() + " product images");
 
-        // Select random product from first 10
         Random random = new Random();
         int maxIndex = Math.min(productImages.size(), 10);
         int randomIndex = random.nextInt(maxIndex);
@@ -120,16 +116,13 @@ public class SearchResultsPage extends BasePage {
 
         logger.info("Selecting random product at index: " + randomIndex);
 
-        // Scroll to element and click
         ((JavascriptExecutor) driver).executeScript("arguments[0].scrollIntoView({block: 'center'});", selectedProduct);
         sleep(500);
 
-        // Click on the product image
         try {
             ((JavascriptExecutor) driver).executeScript("arguments[0].click();", selectedProduct);
             logger.info("Clicked on product image");
         } catch (Exception e) {
-            // If click fails, try clicking parent link
             try {
                 WebElement parent = selectedProduct.findElement(By.xpath("./ancestor::a"));
                 ((JavascriptExecutor) driver).executeScript("arguments[0].click();", parent);
